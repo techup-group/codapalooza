@@ -1,0 +1,3 @@
+[submodule "node-eUCI-generator"]
+	path = node-eUCI-generator
+	url = https://github.com/code-for-tb/node-eUCI-generator
