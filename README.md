@@ -9,17 +9,15 @@ Register online at  http://Codapalooza.us
 To support the National day of Civic Coding on June 3-5 we are looking for county support our efforts to support the THHI (Tampa Hillsborough Homeless Initiative). Code for Tampa Bay has partnered with Tampa Innovation Alliance to put on CodaPalooza 2016: Gimme Shelter.  
 
 Proposed Modules:
+
 Module #1: Mobile Application for conducting the Point-in-Time Homeless Count Surveys
 Summary: A mobile app has been designed to capture quality, consistent data for the PIT Homeless counts. The app would capture the GPS location coordinates for each survey conducted to assist in understanding where within their community’s unsheltered individuals and families are encountered, providing valuable information for deployment of services. 
-
-Potential Solutions:
-Point in time count Potential Solutions: http://www.fulcrumapp.com/
 
 Module #2 Advanced Reporting and Data Sharing
 Summary: Understanding the “River of homelessness” using advanced data analytics and statistical analysis. Identifying individuals and contact points that lead the current situation, and potentially identifying critical success points in reversing the problem.  This process would require (anonymized) user data with unique keys to track a homeless person through their journey. This would help us to better understand the homeless cascade or spiral - from proximal to ultimate causes, secondary and further consequences.
 
 
-Needs
+Needs:
 Create a Unique Identifier system that anonymizes user data, but allows you to identify the same person in different programs, and databases. 
 Syncmaster - a system that will take imports from other systems and prevent duplicate content, while connecting a user across databases.
 
