@@ -14,7 +14,15 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{617D13C1-8B8D-41E7-9956-912D1BF36CB1}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		SampleData\Addresses.txt = SampleData\Addresses.txt
+		SampleData\AreasServed.txt = SampleData\AreasServed.txt
+		SampleData\BedUnitInventory.txt = SampleData\BedUnitInventory.txt
+		SampleData\ContactNumbers.txt = SampleData\ContactNumbers.txt
+		SampleData\Geography.txt = SampleData\Geography.txt
+		SampleData\Providers.txt = SampleData\Providers.txt
 		README.md = README.md
+		SampleData\ServiceGeography.txt = SampleData\ServiceGeography.txt
+		SampleData\Services.txt = SampleData\Services.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.0 - Web Services", "5.0 - Web Services", "{8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}"
@@ -32,6 +40,8 @@ EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TampaInnovation.GimmeServices.Database", "TampaInnovation.GimmeServices.Database\TampaInnovation.GimmeServices.Database.sqlproj", "{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.TempIntegration", "TampaInnovation.TempIntegration\TampaInnovation.TempIntegration.csproj", "{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.DataAccess", "TampaInnovation.DataAccess\TampaInnovation.DataAccess.csproj", "{392C4273-2E50-4EE0-B939-E829DA2E9DE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +79,10 @@ Global
 		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -81,5 +95,6 @@ Global
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
 		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB} = {43319275-F5D6-43A4-8937-42E3D0E26302}
 		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F} = {8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5} = {43319275-F5D6-43A4-8937-42E3D0E26302}
 	EndGlobalSection
 EndGlobal

@@ -8,6 +8,7 @@ namespace TampaInnovation.Models
 {
     public class UserRegistration
     {
+        public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string Email { get; set; }
@@ -15,5 +16,6 @@ namespace TampaInnovation.Models
         public string Gender { get; set; }
         public bool IsMarried { get; set; }
         public int FamilyCount { get; set; }
+        public DateTime CreatedDate  { get; set; } = DateTime.UtcNow;
     }
 }
