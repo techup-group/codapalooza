@@ -127,6 +127,7 @@
     <Content Include="App\hp\hp.module.js" />
     <Content Include="App\hp\hp.route.js" />
     <Content Include="App\layout\footer.html" />
+    <Content Include="App\layout\Geolocation.js" />
     <Content Include="App\layout\header.html" />
     <Content Include="App\layout\layout.module.js" />
     <Content Include="App\layout\shell.controller.js" />
@@ -182,6 +183,7 @@
     <Content Include="scripts\ng-csv.min.js" />
     <Content Include="scripts\ng-grid.js" />
     <Content Include="scripts\ng-grid.min.js" />
+    <Content Include="scripts\ng-map.min.js" />
     <Content Include="scripts\ngplus-overlay.js" />
     <Content Include="scripts\npm.js" />
     <Content Include="scripts\toastr.js" />

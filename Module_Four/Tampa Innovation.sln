@@ -14,15 +14,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{617D13C1-8B8D-41E7-9956-912D1BF36CB1}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
-		SampleData\Addresses.txt = SampleData\Addresses.txt
-		SampleData\AreasServed.txt = SampleData\AreasServed.txt
-		SampleData\BedUnitInventory.txt = SampleData\BedUnitInventory.txt
-		SampleData\ContactNumbers.txt = SampleData\ContactNumbers.txt
-		SampleData\Geography.txt = SampleData\Geography.txt
-		SampleData\Providers.txt = SampleData\Providers.txt
 		README.md = README.md
-		SampleData\ServiceGeography.txt = SampleData\ServiceGeography.txt
-		SampleData\Services.txt = SampleData\Services.txt
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.0 - Web Services", "5.0 - Web Services", "{8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}"
@@ -88,6 +80,6 @@ Global
 		{463CDE13-83FC-4978-A733-1A0CE42AE6BD} = {02A2A3DC-D5E5-425C-95A8-CC71D2003121}
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
 		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB} = {43319275-F5D6-43A4-8937-42E3D0E26302}
-		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
+		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F} = {8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}
 	EndGlobalSection
 EndGlobal
