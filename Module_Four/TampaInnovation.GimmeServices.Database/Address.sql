@@ -15,6 +15,7 @@
 	[Longitude] DECIMAL NULL,
 	[Landmarks] NVARCHAR(50) NULL,
 	[Provider] NVARCHAR(50) NULL,
+	[ProviderId] INT NULL,
 	[ProviderCreating] NVARCHAR(50) NULL,
 	[DateAdded] DATETIME NULL,
 	[ProviderUpdating] NVARCHAR(50) NULL,
@@ -23,5 +24,5 @@
 
 GO
 
-CREATE INDEX AddressIdx1 ON Address (AddressId)
+CREATE INDEX AddressIdx1 ON [Address] (AddressId)
 
