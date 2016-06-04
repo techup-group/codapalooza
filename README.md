@@ -15,7 +15,7 @@ Summary: A mobile app has been designed to capture quality, consistent data for 
 
 **Module #2** Advanced Reporting and Data Sharing
 Summary: Understanding the “River of homelessness” using advanced data analytics and statistical analysis. Identifying individuals and contact points that lead the current situation, and potentially identifying critical success points in reversing the problem.  This process would require (anonymized) user data with unique keys to track a homeless person through their journey. This would help us to better understand the homeless cascade or spiral - from proximal to ultimate causes, secondary and further consequences.
-
+https://github.com/servinglynk/hmis-lynk-open-source-docs/wiki/Resources-Page-for-CodaPalooza-2016:-Gimme-Shelter
 
 *Needs*:
 Create a Unique Identifier system that anonymizes user data, but allows you to identify the same person in different programs, and databases. 
