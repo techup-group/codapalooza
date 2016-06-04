@@ -20,18 +20,17 @@ namespace TampaInnovation.Business
             return JsonConvert.SerializeObject(Utilities.GetSigningKey(publicKey, privateKey));
         }
 
-        public static List<ProviderContact> TestCall()
+        public static List<ServiceGeography> TestCall()
         {
             GimmeshelterClient client = new GimmeshelterClient();
             var key = Utilities.GetSigningKey(publicKey, privateKey);
-            client.GetAddress<string>(key);
-            client.GetAreasServed<string>(key);
-            client.GetBedUnitInventory<string>(key);
-            client.GetContactNumbers<string>(key);
-            client.GetGeograpphy<string>(key, 33607);
-            client.GetServices<string>(key);
-            client.GetServicesGeograpphy<string>(key, 33607);
-            return client.GetProviders<List<ProviderContact>>(Utilities.GetSigningKey(publicKey, privateKey));
+            client.GetAddress<List<Address>>(key);
+            client.GetAreasServed<List<AreaServered>>(key);
+            client.GetBedUnitInventory<List<BedUnitInventory>>(key);
+            client.GetContactNumbers<List<ContactNumber>>(key);
+            client.GetGeography<List<Geography>>(key, 33607);
+            client.GetServices<List<Services>>(key);
+            return client.GetServicesGeography<List<ServiceGeography>>(key, 33607);
         }
     }
 }

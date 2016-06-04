@@ -12,9 +12,10 @@ namespace TampaInnovation.WebServices.Controllers
     public class ValuesController : ApiController
     {
         // GET api/values
-        public List<ProviderContact> Get()
+        public List<string> Get()
         {
-            return ResourcesServices.TestCall();
+            ResourcesServices.TestCall();
+            return new List<string>();
         }
 
         // GET api/values/5

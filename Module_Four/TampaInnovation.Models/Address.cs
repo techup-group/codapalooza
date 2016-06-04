@@ -6,13 +6,7 @@ using System.Threading.Tasks;
 
 namespace TampaInnovation.Models
 {
-
-    public class ProviderAddressResult
-    {
-        public List<ProviderAddress> ProviderAddresses { get; set; } = new List<ProviderAddress>();
-    }
-
-    public class ProviderAddress
+    public class Address
     {
         public string Active { get; set; }
         public string AddressType { get; set; }

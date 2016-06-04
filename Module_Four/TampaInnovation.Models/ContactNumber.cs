@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TampaInnovation.Models
 {
-   public class ProviderContact
+    public class ContactNumber
     {
         public string Active { get; set; }
         public string DateAdded { get; set; }
@@ -22,5 +22,4 @@ namespace TampaInnovation.Models
         public string TelephoneLine { get; set; }
         public string TelephonePrefix { get; set; }
     }
-
 }
