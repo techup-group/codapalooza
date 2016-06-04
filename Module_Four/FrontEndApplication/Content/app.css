@@ -1,0 +1,110 @@
+﻿.appTitle
+{  
+    float: left;
+    margin-left: 74px;
+    padding-top: 31px;
+    font: 600 24px/32px Open Sans, sans-serif;
+    color: #2b547d;
+    text-transform: uppercase;
+    max-width: 100%;
+}  
+/*.btn-primary {
+    color: #C2B6E7;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+}*/
+/*.dropdown-menu {
+  position: fixed;
+  top: 100%;
+  left:0;
+  z-index: 1000;
+  display: inline-block;
+  float: right;
+  min-width: 160px;
+  padding: 5px 0;
+  margin: 300px;
+  font-size: 14px;
+  text-align: left;
+  list-style: none;
+  background-color: #fff;
+  -webkit-background-clip: padding-box;
+          background-clip: padding-box;
+  border: 1px solid #ccc;
+  border: 1px solid rgba(0, 0, 0, .15);
+  border-radius: 4px;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+          box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+}*/
+
+.awesome-place
+{
+  background-color: #f0f8ff;
+  padding: 10px;
+}
+.text-navy {
+    color: #1c84c6;
+    font-size: 18px;
+}
+.text-primary {
+    color: inherit;
+}
+.text-success {
+    color: #1c84c6;
+}
+.text-info {
+    color: #23c6c8;
+}
+.text-warning {
+    color: #f8ac59;
+}
+.text-danger {
+    color: #ed5565;
+}
+.text-muted {
+    color: #888888;
+}
+.gray-bg {
+    background-color: #f3f3f4;
+}
+.middle-box {
+    max-width: 800px;
+    z-index: 100;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+.font-bold {
+    color: #1c84c6;
+    font-weight: 1000;
+}
+/*.container-fluid {
+  padding-right: 5px;
+  padding-left: 5px;
+  margin-right: auto;
+  margin-left: auto;
+}*/
+
+.ui-datepicker-trigger{
+	/*width:0px !important;*/
+	/*height:0px !important;*/
+	border:0px!important;
+	background-color:white!important;
+}
+
+
+/*.ui-datepicker-current{
+    display: none !important;
+}
+
+.ui-datepicker-close{
+    display: block;
+}*/
+
+.ui-priority-secondary,
+.ui-widget-content .ui-priority-secondary,
+.ui-widget-header .ui-priority-secondary {
+	opacity: 1;
+	filter:Alpha(Opacity=100); /* support: IE8 */
+		font-weight: bold !important;
+}
+
+.argh3 {border-width:medium; border-collapse:separate; border-spacing:2px;}
