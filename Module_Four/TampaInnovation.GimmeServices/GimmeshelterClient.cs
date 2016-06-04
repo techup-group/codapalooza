@@ -61,7 +61,7 @@ namespace TampaInnovation.GimmeServices
             return CallApiGet<T>(url);
         }
 
-        public T GetGeograpphy<T>(SigningKey signingKey, string zipCode)
+        public T GetGeography<T>(SigningKey signingKey, string zipCode)
         {
             string url = "gimmeshelter/Providers/getGeography?json=" + CreateJsonQueryStringWithZipCode(signingKey, zipCode);
             return CallApiGet<T>(url);
@@ -79,7 +79,7 @@ namespace TampaInnovation.GimmeServices
             return CallApiGet<T>(url);
         }
 
-        public T GetServicesGeograpphy<T>(SigningKey signingKey, string zipCode)
+        public T GetServicesGeography<T>(SigningKey signingKey, string zipCode)
         {
             string url = "gimmeshelter/Providers/getServicesGeography?json=" + CreateJsonQueryStringWithZipCode(signingKey, zipCode);
             return CallApiGet<T>(url);
