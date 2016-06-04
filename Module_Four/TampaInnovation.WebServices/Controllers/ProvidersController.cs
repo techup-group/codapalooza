@@ -12,11 +12,11 @@ namespace TampaInnovation.WebServices.Controllers
     [RoutePrefix("providers")]
     public class ProvidersController : ApiController
     {
-        [HttpGet]
+        [HttpPost]
         [Route("")]
-        public List<ProviderWrapper> Search([FromUri] string query = null, [FromUri] int? range = null, [FromUri] int limit = 20)
+        public List<ProviderWrapper> Search([FromBody] List<string> filters, [FromUri] string query = null, [FromUri] int range = 50, [FromUri] int limit = 20)
         {
-            return ResourcesServices.Search(query, range, limit);
+            return ResourcesServices.Search(filters, query, range, limit);
         }
 
 

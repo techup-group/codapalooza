@@ -27,7 +27,7 @@ namespace TampaInnovation.Business
             return client.GetServicesGeography<List<ServiceGeography>>(33607);
         }
 
-        public static List<ProviderWrapper> Search(string query, int? range, int? limit)
+        public static List<ProviderWrapper> Search(List<string> filters, string query, int? range, int? limit)
         {
             return new List<ProviderWrapper>
             {
@@ -40,14 +40,7 @@ namespace TampaInnovation.Business
                         {
                             new ContactInformation
                             {
-                                ContactType = "Phone",
-                                IsActive = true,
-                                Number = "(813) 375-3933"
-                            },
-                            new ContactInformation
-                            {
-                                ContactType = "Fax",
-                                IsActive = true,
+                                Name = "South West",
                                 Number = "(813) 375-3933"
                             }
                         },
@@ -55,7 +48,6 @@ namespace TampaInnovation.Business
                         {
                             new Address
                             {
-                                IsActive = true,
                                 Additional = "",
                                 AddressType = "Physical",
                                 City = "Tampa",
@@ -65,16 +57,6 @@ namespace TampaInnovation.Business
                                 State = "FL",
                                 ZipCode = "33612",
                                 StreetAddress = "10049 N Florida Ave"
-                            }
-                        },
-                        ContactPeople = new List<ContactPersonnel>
-                        {
-                            new ContactPersonnel
-                            {
-                                Number = "(813) 375-3933",
-                                Name = "Tomi Steinruck",
-                                Title = "Program Manager, HIV/AIDS Services",
-                                Email = "tsteinruck@ccdosp.org"
                             }
                         },
                         Name = "Catholic Charities - Mercy Apartments (PSH)",

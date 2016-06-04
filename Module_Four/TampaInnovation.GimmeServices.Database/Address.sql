@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[Address]
 (
-	[AddressId] INT NULL,
+	[AddressId] INT NOT NULL,
 	[Active] BIT NULL,
 	[AddressType] NVARCHAR(10) NULL,
 	[AddressTypeId] INT NULL,
@@ -20,7 +20,8 @@
 	[ProviderCreating] NVARCHAR(50) NULL,
 	[DateAdded] DATETIME NULL,
 	[ProviderUpdating] NVARCHAR(50) NULL,
-	[DateUpdated] DATETIME NULL
+	[DateUpdated] DATETIME NULL, 
+    CONSTRAINT [PK_Address] PRIMARY KEY ([AddressId])
 )
 
 GO
