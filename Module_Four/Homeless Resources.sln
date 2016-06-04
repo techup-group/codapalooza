@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0 - Model", "1.0 - Model", "{D3D65D51-2FD2-4BE7-91F8-B29254F95FEE}"
 EndProject
@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.0 - Data", "2.0 - Data", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0 - Business", "3.0 - Business", "{02A2A3DC-D5E5-425C-95A8-CC71D2003121}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0 - Presentation", "4.0 - Presentation", "{0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0 - Web App", "4.0 - Web App", "{0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{617D13C1-8B8D-41E7-9956-912D1BF36CB1}"
 EndProject
