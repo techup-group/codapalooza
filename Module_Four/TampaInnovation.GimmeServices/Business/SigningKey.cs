@@ -1,6 +1,6 @@
 using Newtonsoft.Json;
 
-namespace TampaInnovation.Models
+namespace TampaInnovation.GimmeServices.Business
 {
     public class SigningKey
     {

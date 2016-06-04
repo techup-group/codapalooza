@@ -1,13 +1,12 @@
 ﻿using System;
 using System.Security.Cryptography;
 using System.Text;
-using TampaInnovation.Models;
 
-namespace TampaInnovation.Business.Helpers
+namespace TampaInnovation.GimmeServices.Business
 {
     public class Utilities
     {
-        public static int CurrentUnixTimeStamp(DateTime dateTime)
+        private static int CurrentUnixTimeStamp(DateTime dateTime)
         {
             DateTime epoch = new DateTime(1970, 1, 1, 0, 0, 0, 0, DateTimeKind.Utc);
             return (int)dateTime.Subtract(epoch).TotalSeconds;

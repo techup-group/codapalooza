@@ -1,4 +1,4 @@
-﻿namespace TampaInnovation.Models
+﻿namespace TampaInnovation.GimmeServices.Models
 {
     public class ServiceGeography
     {
