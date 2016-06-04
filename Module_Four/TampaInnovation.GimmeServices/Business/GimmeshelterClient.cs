@@ -2,17 +2,16 @@
 using System.Net;
 using System.Net.Http;
 using Newtonsoft.Json;
-using TampaInnovation.Models;
 
-namespace TampaInnovation.GimmeServices
+namespace TampaInnovation.GimmeServices.Business
 {
     public class GimmeshelterClient
     {
-        private string _baseUrl = "http://api.gimmeshelter.us/";
+        private readonly string _baseUrl = "http://api.gimmeshelter.us/";
 
         private T CallApiGet<T>(string url)
         {
-            using (HttpClient client = new HttpClient { BaseAddress = new Uri(_baseUrl) })
+            using (HttpClient client = new HttpClient {BaseAddress = new Uri(_baseUrl)})
             {
                 try
                 {
@@ -38,65 +37,72 @@ namespace TampaInnovation.GimmeServices
             }
         }
 
-        public T GetAddress<T>(SigningKey signingKey)
+        public T GetAddress<T>()
         {
-            string url = "gimmeshelter/Providers/getAddress?json=" + CreateJsonQueryString(signingKey);
+            string url = "gimmeshelter/Providers/getAddress?json=" + CreateJsonQueryString();
             return CallApiGet<T>(url);
         }
 
-        public T GetAreasServed<T>(SigningKey signingKey)
+        public T GetAreasServed<T>()
         {
-            string url = "gimmeshelter/Providers/getAreasServed?json=" + CreateJsonQueryString(signingKey);
+            string url = "gimmeshelter/Providers/getAreasServed?json=" + CreateJsonQueryString();
             return CallApiGet<T>(url);
         }
 
-        public T GetBedUnitInventory<T>(SigningKey signingKey)
+        public T GetBedUnitInventory<T>()
         {
-            string url = "gimmeshelter/Providers/getBedUnitInventory?json=" + CreateJsonQueryString(signingKey);
+            string url = "gimmeshelter/Providers/getBedUnitInventory?json=" + CreateJsonQueryString();
             return CallApiGet<T>(url);
         }
 
-        public T GetContactNumbers<T>(SigningKey signingKey)
+        public T GetContactNumbers<T>()
         {
-            string url = "gimmeshelter/Providers/getContactNumbers?json=" + CreateJsonQueryString(signingKey);
+            string url = "gimmeshelter/Providers/getContactNumbers?json=" + CreateJsonQueryString();
             return CallApiGet<T>(url);
         }
 
-        public T GetGeography<T>(SigningKey signingKey, int zipCode)
+        public T GetGeography<T>(int zipCode)
         {
-            string url = "gimmeshelter/Providers/getGeography?json=" + CreateJsonQueryStringWithZipCode(signingKey, zipCode);
+            string url = "gimmeshelter/Providers/getGeography?json=" + CreateJsonQueryStringWithZipCode(zipCode);
             return CallApiGet<T>(url);
         }
 
-        public T GetProviders<T>(SigningKey signingKey)
+        public T GetProviders<T>()
         {
-            string url = "gimmeshelter/Providers?json=" + CreateJsonQueryString(signingKey);
+            string url = "gimmeshelter/Providers?json=" + CreateJsonQueryString();
             return CallApiGet<T>(url);
         }
 
-        public T GetServices<T>(SigningKey signingKey)
+        public T GetServices<T>()
         {
-            string url = "gimmeshelter/Providers/getServices?json=" + CreateJsonQueryString(signingKey);
+            string url = "gimmeshelter/Providers/getServices?json=" + CreateJsonQueryString();
             return CallApiGet<T>(url);
         }
 
-        public T GetServicesGeography<T>(SigningKey signingKey, int zipCode)
+        public T GetServicesGeography<T>(int zipCode)
         {
-            string url = "gimmeshelter/Providers/getServicesGeography?json=" + CreateJsonQueryStringWithZipCode(signingKey, zipCode);
+            string url = "gimmeshelter/Providers/getServicesGeography?json=" + CreateJsonQueryStringWithZipCode(zipCode);
             return CallApiGet<T>(url);
         }
 
         #region Private
 
-        private static string CreateJsonQueryString(SigningKey signingKey)
+        private static string CreateJsonQueryString()
         {
+            SigningKey signingKey = Utilities.GetSigningKey(PUBLIC_KEY, PRIVATE_KEY);
             return "{\"ts\":\"" + signingKey.TimeStamp + "\",\"key\":\"" + signingKey.PublicKey + "\",\"sig\":\"" + signingKey.Signature + "\"}";
         }
 
-        private static string CreateJsonQueryStringWithZipCode(SigningKey signingKey, int zipCode)
+        private static string CreateJsonQueryStringWithZipCode(int zipCode)
         {
+            SigningKey signingKey = Utilities.GetSigningKey(PUBLIC_KEY, PRIVATE_KEY);
+
             return "{\"ts\": \"" + signingKey.TimeStamp + "\", \"sig\": \"" + signingKey.Signature + "\", \"key\": \"" + signingKey.PublicKey + "\", \"zip\": \"" + zipCode + "\"}";
         }
+
+
+        private const string PUBLIC_KEY = "C2C1228EEDFCAB4DC1CAECCF8361A";
+        private const string PRIVATE_KEY = "BFA429A2E243633954D9E17FB2646";
 
         #endregion
     }

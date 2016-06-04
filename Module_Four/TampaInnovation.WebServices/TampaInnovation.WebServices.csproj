@@ -187,8 +187,8 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\SampleDirection.cs" />
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
-    <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\ValuesController.cs" />
+    <Compile Include="Controllers\ProvidersController.cs" />
+    <Compile Include="Controllers\UsersController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
@@ -275,6 +275,10 @@
     <ProjectReference Include="..\TampaInnovation.Business\TampaInnovation.Business.csproj">
       <Project>{463CDE13-83FC-4978-A733-1A0CE42AE6BD}</Project>
       <Name>TampaInnovation.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TampaInnovation.GimmeServices\TampaInnovation.GimmeServices.csproj">
+      <Project>{9ABD8288-9B31-4488-870B-5152A66A5D90}</Project>
+      <Name>TampaInnovation.GimmeServices</Name>
     </ProjectReference>
     <ProjectReference Include="..\TampaInnovation.Models\TampaInnovation.Models.csproj">
       <Project>{1DF12886-048E-4541-9956-446CAAEE5289}</Project>
