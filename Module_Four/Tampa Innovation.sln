@@ -19,6 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution 
 		SampleData\BedUnitInventory.txt = SampleData\BedUnitInventory.txt
 		SampleData\ContactNumbers.txt = SampleData\ContactNumbers.txt
 		SampleData\Geography.txt = SampleData\Geography.txt
+		SampleData\Providers.txt = SampleData\Providers.txt
 		README.md = README.md
 		SampleData\ServiceGeography.txt = SampleData\ServiceGeography.txt
 		SampleData\Services.txt = SampleData\Services.txt

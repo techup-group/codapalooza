@@ -30,6 +30,7 @@ namespace TampaInnovation.Business
             client.GetContactNumbers<List<ContactNumber>>(key);
             client.GetGeography<List<Geography>>(key, 33607);
             client.GetServices<List<Services>>(key);
+            client.GetProviders<List<Provider>>(key);
             return client.GetServicesGeography<List<ServiceGeography>>(key, 33607);
         }
     }

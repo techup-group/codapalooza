@@ -50,6 +50,7 @@
     <Compile Include="Address.cs" />
     <Compile Include="ContactNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Provider.cs" />
     <Compile Include="ServiceGeography.cs" />
     <Compile Include="Services.cs" />
     <Compile Include="SigningKey.cs" />
