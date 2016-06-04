@@ -9,13 +9,33 @@
      <br />
     Data from API -- {{myData}}-->
     <form novalidate class="simple-form">
-        Name: <input type="text" ng-model="user.name" /><br />
+        <!--Name: <input type="text" ng-model="user.name" /><br />-->
         <!--E-mail: <input type="email" ng-model="user.email" /><br />
         Gender: <input type="radio" ng-model="user.gender" value="male" />male
         <input type="radio" ng-model="user.gender" value="female" />female<br />
         <input type="button" ng-click="reset()" value="Reset" />-->
+        <!--<input type="submit" ng-click="Update()" value="Send" />-->
+        <b>SHELTER</b><br /><hr />
+        <input type="checkbox" ng-model="checkboxModel.value1">
+        <label>SERVES FOOD:</label><br />
+        <input type="checkbox" ng-model="checkboxModel.value2">
+        <label>SHOWERS</label><br />
+        <input type="checkbox" ng-model="checkboxModel.value3">
+        <label>SERVICE PETS ALLOWED:</label><br />
+        <input type="checkbox" ng-model="checkboxModel.value4">
+        <label>BEDS:</label><br />
+        <input type="checkbox" ng-model="checkboxModel.value5">
+        <label>WOMAN & CHILDREN</label><br />
+        <input type="checkbox" ng-model="checkboxModel.value6">
+        <label>FAMILY FRIENDLY</label><br />
+        <input type="checkbox" ng-model="checkboxModel.value7">
+        <label>ADA</label><br />
+
         <input type="submit" ng-click="Update()" value="Send" />
     </form>
+    <pre>
+        {{myData}}
+    </PRE>
     
 
 </div> <!-- /container-fluid -->

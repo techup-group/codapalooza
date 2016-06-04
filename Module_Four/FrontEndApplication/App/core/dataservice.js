@@ -26,12 +26,12 @@
             })
         }
 
-        function getProviders() {
-            return $http.get(baseUrl + 'Providers/Search', {
+        function getProviders(requestObj) {
+            return $http.get(baseUrl + 'Providers', {
                 params: {
-                    query: 3,
-                    range: 10,
-                    limit: 25
+                    query: requestObj.query,
+                    range: requestObj.range,
+                    limit: requestObj.limit
                 }
             }).then(function (response) {
                 return response.data;
