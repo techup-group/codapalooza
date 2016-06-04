@@ -10,16 +10,30 @@
         var ds = this;
         ds.ready = ready;
         ds.getEarnings = getEarnings;
+        ds.getProviders = getProviders;
 
+        var baseUrl = "http://localhost:51319/";
 
-        function getEarnings(data) {
-            return $http.get('api/Request/GetDetails', {
+        function getEarnings() {
+            return $http.get(baseUrl + 'api/Values/Get', {
                 params: {
-                    storeId: data.unitId
+                    id: 3
                 }
             }).then(function(response) {
                 return response.data;
             }).catch(function(message){
+                exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
+            })
+        }
+
+        function getProviders() {
+            return $http.get(baseUrl + 'api/Values/Get', {
+                params: {
+                    id: 3
+                }
+            }).then(function (response) {
+                return response.data;
+            }).catch(function (message) {
                 exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
             })
         }

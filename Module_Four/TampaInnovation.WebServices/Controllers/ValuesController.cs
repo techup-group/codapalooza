@@ -18,10 +18,11 @@ namespace TampaInnovation.WebServices.Controllers
             return new List<string>();
         }
 
+        [HttpGet]
         // GET api/values/5
         public string Get(int id)
         {
-            return "";
+            return "String";
         }
 
         // POST api/values

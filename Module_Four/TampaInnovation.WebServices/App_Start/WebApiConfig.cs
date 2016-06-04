@@ -15,10 +15,19 @@ namespace TampaInnovation.WebServices
             config.MapHttpAttributeRoutes();
 
             config.Routes.MapHttpRoute(
-                name: "DefaultApi",
-                routeTemplate: "api/{controller}/{id}",
-                defaults: new { id = RouteParameter.Optional }
-            );
+                    name: "DefaultApiByName",
+                    routeTemplate: "api/{controller}/{action}/{name}",
+                     defaults: new { id = RouteParameter.Optional }
+                    );
+
+            config.Routes.MapHttpRoute(
+                name: "DefaultApiByAction",
+                routeTemplate: "api/{controller}/{action}"
+                );
+
         }
     }
 }
+    
+    
+
