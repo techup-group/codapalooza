@@ -1,0 +1,187 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0 - Model", "1.0 - Model", "{D3D65D51-2FD2-4BE7-91F8-B29254F95FEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.0 - Data", "2.0 - Data", "{43319275-F5D6-43A4-8937-42E3D0E26302}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0 - Business", "3.0 - Business", "{02A2A3DC-D5E5-425C-95A8-CC71D2003121}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0 - Web App", "4.0 - Web App", "{0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\app.module.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\app.module.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\index.html = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{617D13C1-8B8D-41E7-9956-912D1BF36CB1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.0 - Web Services", "5.0 - Web Services", "{8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Scripts", "Scripts", "{3B1635F8-92D4-4774-9942-ADE640DEA713}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-animate.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-animate.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-animate.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-animate.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-animate.min.js.map = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-animate.min.js.map
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-mocks.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-mocks.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-route.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-route.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-route.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-route.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-route.min.js.map = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-route.min.js.map
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-sanitize.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-sanitize.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-sanitize.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular-sanitize.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular.min.js.map = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\angular.min.js.map
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\bootstrap.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\bootstrap.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\bootstrap.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\bootstrap.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery-2.1.3.intellisense.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery-2.1.3.intellisense.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery-2.1.3.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery-2.1.3.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery-2.1.3.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery-2.1.3.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery-2.1.3.min.map = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery-2.1.3.min.map
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery-ui.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery-ui.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.jgrowl.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.jgrowl.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.jgrowl.map = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.jgrowl.map
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.jgrowl.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.jgrowl.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.validate-vsdoc.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.validate-vsdoc.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.validate.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.validate.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.validate.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.validate.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.validate.unobtrusive.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.validate.unobtrusive.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.validate.unobtrusive.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\jquery.validate.unobtrusive.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\masks.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\masks.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\modernizr-2.6.2.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\modernizr-2.6.2.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\moment.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\moment.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\moment.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\moment.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\ng-csv.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\ng-csv.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\ng-grid.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\ng-grid.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\ng-grid.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\ng-grid.min.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\ngplus-overlay.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\ngplus-overlay.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\npm.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\npm.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\toastr.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\toastr.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\toastr.min.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Scripts\toastr.min.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "app", "app", "{F6623359-7C8B-4A1C-B0EB-F5E47901993D}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\app.module.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\app.module.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "blocks", "blocks", "{548399FA-FE7A-4122-829A-D6654D124D29}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "common", "common", "{D47658A1-7DEE-41C1-9101-8D445286D8AD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "core", "core", "{27823E6C-972A-437A-90E2-6191051666A9}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\core\config.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\core\config.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\core\core.module.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\core\core.module.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\core\dataservice.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\core\dataservice.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "layout", "layout", "{68A2F579-3616-47F4-8271-EFC39EB1EEEF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\layout\footer.html = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\layout\footer.html
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\layout\header.html = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\layout\header.html
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\layout\layout.module.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\layout\layout.module.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\layout\shell.controller.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\layout\shell.controller.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\layout\shell.html = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\layout\shell.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hp", "hp", "{7CCEDE25-9725-408E-A8B5-8127C56E70FF}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\mp\hp.controller.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\mp\hp.controller.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\mp\hp.html = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\mp\hp.html
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\mp\hp.module.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\mp\hp.module.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\mp\hp.route.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\mp\hp.route.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "exception", "exception", "{405B912B-56A9-44E9-A9E3-7C45AE1249E0}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\exception\exception-handler.provider.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\exception\exception-handler.provider.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\exception\exception.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\exception\exception.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\exception\exception.module.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\exception\exception.module.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "logger", "logger", "{2C7DF076-ACC9-44D4-A5D7-ADFF183DA5D5}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\logger\logger.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\logger\logger.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\logger\logger.module.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\logger\logger.module.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "router", "router", "{FD1ED599-F008-4DBF-A8B9-2232AA12D85F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\router\route-helper.provider.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\router\route-helper.provider.js
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\router\router.module.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\blocks\router\router.module.js
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Content", "Content", "{5F5C9BAA-C4BE-4B39-AE24-365861A2AECC}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\app.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\app.css
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap-theme.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap-theme.css
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap-theme.css.map = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap-theme.css.map
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap-theme.min.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap-theme.min.css
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap.css
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap.css.map = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap.css.map
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap.min.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\bootstrap.min.css
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\jquery-ui.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\jquery-ui.css
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\jquery-uis.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\jquery-uis.css
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\jquery.jgrowl.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\jquery.jgrowl.css
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\jquery.jgrowl.min.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\jquery.jgrowl.min.css
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\site.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\site.css
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\toastr.css = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\Content\toastr.css
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{6B3B1D95-A3A2-47F0-9DF0-B865BD0ACEEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.GimmeServices", "TampaInnovation.GimmeServices\TampaInnovation.GimmeServices.csproj", "{9ABD8288-9B31-4488-870B-5152A66A5D90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.WebServices", "TampaInnovation.WebServices\TampaInnovation.WebServices.csproj", "{8167A150-D5D2-4332-981A-9A077C7DD730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.Models", "TampaInnovation.Models\TampaInnovation.Models.csproj", "{1DF12886-048E-4541-9956-446CAAEE5289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.Business", "TampaInnovation.Business\TampaInnovation.Business.csproj", "{463CDE13-83FC-4978-A733-1A0CE42AE6BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABD8288-9B31-4488-870B-5152A66A5D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABD8288-9B31-4488-870B-5152A66A5D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABD8288-9B31-4488-870B-5152A66A5D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABD8288-9B31-4488-870B-5152A66A5D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8167A150-D5D2-4332-981A-9A077C7DD730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8167A150-D5D2-4332-981A-9A077C7DD730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8167A150-D5D2-4332-981A-9A077C7DD730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8167A150-D5D2-4332-981A-9A077C7DD730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF12886-048E-4541-9956-446CAAEE5289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF12886-048E-4541-9956-446CAAEE5289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF12886-048E-4541-9956-446CAAEE5289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF12886-048E-4541-9956-446CAAEE5289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463CDE13-83FC-4978-A733-1A0CE42AE6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463CDE13-83FC-4978-A733-1A0CE42AE6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463CDE13-83FC-4978-A733-1A0CE42AE6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463CDE13-83FC-4978-A733-1A0CE42AE6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3B1635F8-92D4-4774-9942-ADE640DEA713} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
+		{F6623359-7C8B-4A1C-B0EB-F5E47901993D} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
+		{548399FA-FE7A-4122-829A-D6654D124D29} = {F6623359-7C8B-4A1C-B0EB-F5E47901993D}
+		{D47658A1-7DEE-41C1-9101-8D445286D8AD} = {F6623359-7C8B-4A1C-B0EB-F5E47901993D}
+		{27823E6C-972A-437A-90E2-6191051666A9} = {F6623359-7C8B-4A1C-B0EB-F5E47901993D}
+		{68A2F579-3616-47F4-8271-EFC39EB1EEEF} = {F6623359-7C8B-4A1C-B0EB-F5E47901993D}
+		{7CCEDE25-9725-408E-A8B5-8127C56E70FF} = {F6623359-7C8B-4A1C-B0EB-F5E47901993D}
+		{405B912B-56A9-44E9-A9E3-7C45AE1249E0} = {548399FA-FE7A-4122-829A-D6654D124D29}
+		{2C7DF076-ACC9-44D4-A5D7-ADFF183DA5D5} = {548399FA-FE7A-4122-829A-D6654D124D29}
+		{FD1ED599-F008-4DBF-A8B9-2232AA12D85F} = {548399FA-FE7A-4122-829A-D6654D124D29}
+		{5F5C9BAA-C4BE-4B39-AE24-365861A2AECC} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
+		{6B3B1D95-A3A2-47F0-9DF0-B865BD0ACEEC} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
+		{9ABD8288-9B31-4488-870B-5152A66A5D90} = {43319275-F5D6-43A4-8937-42E3D0E26302}
+		{8167A150-D5D2-4332-981A-9A077C7DD730} = {8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}
+		{1DF12886-048E-4541-9956-446CAAEE5289} = {D3D65D51-2FD2-4BE7-91F8-B29254F95FEE}
+		{463CDE13-83FC-4978-A733-1A0CE42AE6BD} = {02A2A3DC-D5E5-425C-95A8-CC71D2003121}
+	EndGlobalSection
+EndGlobal
