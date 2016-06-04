@@ -271,6 +271,16 @@
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TampaInnovation.Business\TampaInnovation.Business.csproj">
+      <Project>{463CDE13-83FC-4978-A733-1A0CE42AE6BD}</Project>
+      <Name>TampaInnovation.Business</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TampaInnovation.Models\TampaInnovation.Models.csproj">
+      <Project>{1DF12886-048E-4541-9956-446CAAEE5289}</Project>
+      <Name>TampaInnovation.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

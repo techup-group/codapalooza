@@ -4,21 +4,23 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using TampaInnovation.Business;
+using TampaInnovation.Models;
 
 namespace TampaInnovation.WebServices.Controllers
 {
     public class ValuesController : ApiController
     {
         // GET api/values
-        public IEnumerable<string> Get()
+        public List<ProviderContact> Get()
         {
-            return new string[] { "value1", "value2" };
+            return ResourcesServices.TestCall();
         }
 
         // GET api/values/5
         public string Get(int id)
         {
-            return "value";
+            return "";
         }
 
         // POST api/values

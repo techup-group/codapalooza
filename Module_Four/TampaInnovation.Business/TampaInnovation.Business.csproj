@@ -49,6 +49,10 @@
     <Compile Include="ResourcesServices.cs" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\TampaInnovation.GimmeServices\TampaInnovation.GimmeServices.csproj">
+      <Project>{9ABD8288-9B31-4488-870B-5152A66A5D90}</Project>
+      <Name>TampaInnovation.GimmeServices</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TampaInnovation.Models\TampaInnovation.Models.csproj">
       <Project>{1DF12886-048E-4541-9956-446CAAEE5289}</Project>
       <Name>TampaInnovation.Models</Name>

@@ -1,36 +1,50 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Dynamic;
 using System.Net;
 using System.Net.Http;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using TampaInnovation.Models;
 
 namespace TampaInnovation.GimmeServices
 {
     public class GimmeshelterClient
     {
-        private string _baseUrl = " http://api.gimmeshelter.us/gimmeshelter/";
+        private string _baseUrl = "http://api.gimmeshelter.us/gimmeshelter/";
 
-        public string GetProviders(string timeStamp, string key, string sig)
+        public List<ProviderContact> GetProviders(SigningKey signingKey)
         {
-            var jsonQueryString = "{'ts': '"+ timeStamp+"', 'sig': '" + sig + "', 'key': '"+ key+ "'}" ;
-            var url = _baseUrl + "gimmeshelter/Providers?json=" + jsonQueryString;
+            var json = "{\"ts\":\"" + signingKey.TimeStamp + "\",\"key\":\""+ signingKey.PublicKey + "\",\"sig\":\"" + signingKey.Signature + "\"}";
+            var url = _baseUrl + "Providers/getContactNumbers?json=" + json;
             return CallApiGet(url);
         }
 
-        private string CallApiGet(string url)
+        private List<ProviderContact> CallApiGet(string url)
         {
             using (var client = new HttpClient())
             {
-                var response = client.GetAsync(url).Result;
-
-                if (response.IsSuccessStatusCode)
+                try
                 {
-                    return response.Content.ReadAsStringAsync().Result;
+                    var response = client.GetAsync(url).Result;
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        var jsonResult = response.Content.ReadAsStringAsync().Result;
+                        return JsonConvert.DeserializeObject<List<ProviderContact>>(jsonResult);
+                    }
+
+                    if (response.StatusCode == HttpStatusCode.NotFound)
+                        throw new Exception("Not found");
+
+                    string msg = response.Content.ReadAsStringAsync().Result;
+                    throw new Exception($"The following error occurred while retrieving order data from Api: {msg}");
                 }
+                catch (Exception ex)
+                {
 
-                if (response.StatusCode == HttpStatusCode.NotFound)
-                    throw new Exception("Not found");
-
-                string msg = response.Content.ReadAsStringAsync().Result;
-                throw new Exception($"The following error occurred while retrieving order data from Api: {msg}");
+                    throw;
+                }
             }
 
         }

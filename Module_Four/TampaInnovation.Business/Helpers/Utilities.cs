@@ -18,7 +18,7 @@ namespace TampaInnovation.Business.Helpers
             using (MD5 md5Hash = MD5.Create())
             {
                 SigningKey key = new SigningKey();
-                key.TypeStamp = CurrentUnixTimeStamp(DateTime.UtcNow).ToString();
+                key.TimeStamp = CurrentUnixTimeStamp(DateTime.UtcNow).ToString();
                 key.PublicKey = publicKey;
 
 
