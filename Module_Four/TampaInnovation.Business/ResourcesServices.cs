@@ -23,6 +23,14 @@ namespace TampaInnovation.Business
         public static List<ProviderContact> TestCall()
         {
             GimmeshelterClient client = new GimmeshelterClient();
+            var key = Utilities.GetSigningKey(publicKey, privateKey);
+            client.GetAddress<string>(key);
+            client.GetAreasServed<string>(key);
+            client.GetBedUnitInventory<string>(key);
+            client.GetContactNumbers<string>(key);
+            client.GetGeograpphy<string>(key, 33607);
+            client.GetServices<string>(key);
+            client.GetServicesGeograpphy<string>(key, 33607);
             return client.GetProviders<List<ProviderContact>>(Utilities.GetSigningKey(publicKey, privateKey));
         }
     }

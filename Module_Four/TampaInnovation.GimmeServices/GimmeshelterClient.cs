@@ -32,8 +32,8 @@ namespace TampaInnovation.GimmeServices
                 }
                 catch (Exception ex)
                 {
-                    throw;
                 }
+                return default(T);
             }
         }
 
@@ -61,7 +61,7 @@ namespace TampaInnovation.GimmeServices
             return CallApiGet<T>(url);
         }
 
-        public T GetGeograpphy<T>(SigningKey signingKey, string zipCode)
+        public T GetGeograpphy<T>(SigningKey signingKey, int zipCode)
         {
             string url = "gimmeshelter/Providers/getGeography?json=" + CreateJsonQueryStringWithZipCode(signingKey, zipCode);
             return CallApiGet<T>(url);
@@ -79,24 +79,24 @@ namespace TampaInnovation.GimmeServices
             return CallApiGet<T>(url);
         }
 
-        public T GetServicesGeograpphy<T>(SigningKey signingKey, string zipCode)
+        public T GetServicesGeograpphy<T>(SigningKey signingKey, int zipCode)
         {
             string url = "gimmeshelter/Providers/getServicesGeography?json=" + CreateJsonQueryStringWithZipCode(signingKey, zipCode);
             return CallApiGet<T>(url);
         }
 
         #region Private
-
-
+        
         private static string CreateJsonQueryString(SigningKey signingKey)
         {
             return "{\"ts\":\"" + signingKey.TimeStamp + "\",\"key\":\"" + signingKey.PublicKey + "\",\"sig\":\"" + signingKey.Signature + "\"}";
         }
 
-        private static string CreateJsonQueryStringWithZipCode(SigningKey signingKey, string zipCode)
+        private static string CreateJsonQueryStringWithZipCode(SigningKey signingKey, int zipCode)
         {
             return "{\"ts\": \"" + signingKey.TimeStamp + "\", 'sig\": \"" + signingKey.Signature + "\", \"key\": \"" + signingKey.PublicKey + "\", \"zip}\": \"" + zipCode + "\"}";
         }
+
         #endregion
     }
 }
