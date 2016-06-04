@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0 - Model", "1.0 - Model", "{D3D65D51-2FD2-4BE7-91F8-B29254F95FEE}"
 EndProject
@@ -10,6 +10,9 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0 - Business", "3.0 - Business", "{02A2A3DC-D5E5-425C-95A8-CC71D2003121}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0 - Web App", "4.0 - Web App", "{0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\app.module.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\app.module.js
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{617D13C1-8B8D-41E7-9956-912D1BF36CB1}"
 	ProjectSection(SolutionItems) = preProject
@@ -28,10 +31,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.Business", "TampaInnovation.Business\TampaInnovation.Business.csproj", "{463CDE13-83FC-4978-A733-1A0CE42AE6BD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEndApplication", "FrontEndApplication\FrontEndApplication.csproj", "{4DBC7646-77B4-4CB3-B159-1FD544B493E9}"
-EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TampaInnovation.GimmeServices.Database", "TampaInnovation.GimmeServices.Database\TampaInnovation.GimmeServices.Database.sqlproj", "{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.TempIntegration", "TampaInnovation.TempIntegration\TampaInnovation.TempIntegration.csproj", "{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,16 +58,6 @@ Global
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Release|Any CPU.Build.0 = Release|Any CPU
-		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Release|Any CPU.Deploy.0 = Release|Any CPU
-		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -79,7 +68,5 @@ Global
 		{1DF12886-048E-4541-9956-446CAAEE5289} = {D3D65D51-2FD2-4BE7-91F8-B29254F95FEE}
 		{463CDE13-83FC-4978-A733-1A0CE42AE6BD} = {02A2A3DC-D5E5-425C-95A8-CC71D2003121}
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
-		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB} = {43319275-F5D6-43A4-8937-42E3D0E26302}
-		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F} = {8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}
 	EndGlobalSection
 EndGlobal

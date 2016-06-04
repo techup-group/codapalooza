@@ -24,7 +24,12 @@
 
         $scope.Update = function () {
             navigator.geolocation.getCurrentPosition(success, error);
+
+            var userSelection = ["SHOWERS", "BEDS", "ADA"];
+
+
             var requestObj = new Object();
+            requestObj.requirment = userSelection;
             requestObj.query = '28.053397' + ',' + '-82.4473383';
             requestObj.range = 25;
             requestObj.limit = 20;
