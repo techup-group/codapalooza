@@ -44,7 +44,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GimmeshelterClient.cs" />
+    <Compile Include="Business\GimmeshelterClient.cs" />
+    <Compile Include="Business\SigningKey.cs" />
+    <Compile Include="Business\Utilities.cs" />
+    <Compile Include="Models\Address.cs" />
+    <Compile Include="Models\AreaServed.cs" />
+    <Compile Include="Models\BedUnitInventory.cs" />
+    <Compile Include="Models\ContactNumber.cs" />
+    <Compile Include="Models\Geography.cs" />
+    <Compile Include="Models\Provider.cs" />
+    <Compile Include="Models\ServiceGeography.cs" />
+    <Compile Include="Models\Services.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

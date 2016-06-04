@@ -27,9 +27,11 @@
         }
 
         function getProviders() {
-            return $http.get(baseUrl + 'api/Values/Get', {
+            return $http.get(baseUrl + 'Providers/Search', {
                 params: {
-                    id: 3
+                    query: 3,
+                    range: 10,
+                    limit: 25
                 }
             }).then(function (response) {
                 return response.data;

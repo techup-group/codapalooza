@@ -44,15 +44,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AreaServed.cs" />
-    <Compile Include="BedUnitInventory.cs" />
-    <Compile Include="Geography.cs" />
     <Compile Include="Address.cs" />
-    <Compile Include="ContactNumber.cs" />
+    <Compile Include="ContactInformation.cs" />
+    <Compile Include="ContactPersonnel.cs" />
+    <Compile Include="ProviderResult.cs" />
+    <Compile Include="ProviderWrapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ServiceGeography.cs" />
-    <Compile Include="Services.cs" />
-    <Compile Include="SigningKey.cs" />
+    <Compile Include="UserRegistration.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

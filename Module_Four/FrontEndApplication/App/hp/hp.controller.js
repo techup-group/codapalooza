@@ -24,7 +24,7 @@
             });
         }
 
-        $scope.update = function (user) {
+        $scope.Update = function () {
             return dataservice.getProviders().then(function (response) {
                 $scope.myData = response;
 
