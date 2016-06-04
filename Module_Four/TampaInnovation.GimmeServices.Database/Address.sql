@@ -2,6 +2,7 @@
 (
 	[AddressId] INT NULL,
 	[Active] BIT NULL,
+	[AddressType] NVARCHAR(10) NULL,
 	[AddressTypeId] INT NULL,
 	[StreetAddress] NVARCHAR(50) NULL,
 	[Additional] NVARCHAR(50) NULL,
@@ -11,10 +12,11 @@
 	[Country] NVARCHAR(50) NULL,
     [CountyOrParish] NVARCHAR(50) NULL,
     [Area] NVARCHAR(20) NULL,
-	[Latitude] DECIMAL NULL,
-	[Longitude] DECIMAL NULL,
+	[Latitude] NUMERIC(16,8) NULL,
+	[Longitude] NUMERIC(16,8) NULL,
 	[Landmarks] NVARCHAR(50) NULL,
 	[Provider] NVARCHAR(50) NULL,
+	[ProviderId] INT NULL,
 	[ProviderCreating] NVARCHAR(50) NULL,
 	[DateAdded] DATETIME NULL,
 	[ProviderUpdating] NVARCHAR(50) NULL,
@@ -23,5 +25,5 @@
 
 GO
 
-CREATE INDEX AddressIdx1 ON Address (AddressId)
+CREATE INDEX AddressIdx1 ON [Address] (AddressId)
 
