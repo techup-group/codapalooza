@@ -63,6 +63,8 @@
     <Build Include="AddressType.sql" />
     <Build Include="AreaServed.sql" />
     <Build Include="BedUnitInventory.sql" />
+    <Build Include="ContactNumber.sql" />
+    <Build Include="Geography.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="TampaInnovation.GimmeServices.Database.refactorlog" />
