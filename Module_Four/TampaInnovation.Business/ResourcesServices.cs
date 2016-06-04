@@ -17,13 +17,13 @@ namespace TampaInnovation.Business
 
         public static string TestServices()
         {
-            return  JsonConvert.SerializeObject(Utilities.GetSigningKey(publicKey, privateKey));
+            return JsonConvert.SerializeObject(Utilities.GetSigningKey(publicKey, privateKey));
         }
 
         public static List<ProviderContact> TestCall()
         {
             GimmeshelterClient client = new GimmeshelterClient();
-            return client.GetProviders(Utilities.GetSigningKey(publicKey, privateKey));
+            return client.GetProviders<List<ProviderContact>>(Utilities.GetSigningKey(publicKey, privateKey));
         }
     }
 }
