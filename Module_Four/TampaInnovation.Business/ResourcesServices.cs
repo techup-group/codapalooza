@@ -4,6 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
+using TampaInnovation.Business.Helpers;
+using TampaInnovation.DataAccess;
+using TampaInnovation.GeoLocation;
 using TampaInnovation.GimmeServices;
 using TampaInnovation.GimmeServices.Business;
 using TampaInnovation.GimmeServices.Models;
@@ -27,55 +30,40 @@ namespace TampaInnovation.Business
             return client.GetServicesGeography<List<ServiceGeography>>(33607);
         }
 
-        public static List<ProviderWrapper> Search(List<string> filters, string query, int? range, int? limit)
+        public static List<ProviderWrapper> Search(List<string> filters, string query, int range, int limit)
         {
-            return new List<ProviderWrapper>
+            using (ApplicationContext context = new ApplicationContext())
             {
-                new ProviderWrapper
+                List<ProviderResult> providerResults = context.ProviderResult.ToList();
+                LatLong latLong;
+                if (!query.IsValidLatLong(out latLong))
                 {
-                    Distance = 1.1,
-                    Providers = new ProviderResult
+                    if (!string.IsNullOrEmpty(query))
                     {
-                        ContactInformations = new List<ContactInformation>
+                        Models.GeoLocation latLongRequest = new GoogleGeoCoder().GetLatLong(query);
+                        latLong = new LatLong
                         {
-                            new ContactInformation
-                            {
-                                Name = "South West",
-                                Number = "(813) 375-3933"
-                            }
-                        },
-                        Addresses = new List<Address>
-                        {
-                            new Address
-                            {
-                                Additional = "",
-                                AddressType = "Physical",
-                                City = "Tampa",
-                                Country = "USA",
-                                Longitude = -82.45938,
-                                Latitude = 27.95493,
-                                State = "FL",
-                                ZipCode = "33612",
-                                StreetAddress = "10049 N Florida Ave"
-                            }
-                        },
-                        Name = "Catholic Charities - Mercy Apartments (PSH)",
-                        AvailableUnits = "9",
-                        OperationHours = "8:00 am - 5:00 pm",
-                        ProvidedServices = new List<string>
-                        {
-                            "Housing",
-                            "Food"
-                        },
-                        TotalUnits = "20"
+                            Longitude = latLongRequest.Longitude,
+                            Latitude = latLongRequest.Latitude
+                        };
                     }
                 }
-            };
+
+                if (latLong == null)
+                    throw new Exception("Invalid Query Provided");
+
+                List<ProviderWrapper> providerWrappers = GeoLocations.GetProviderDistances(providerResults, latLong.Latitude, latLong.Longitude, range);
+
+                return providerWrappers.Take(limit).ToList();
+            }
         }
 
-        public static ProviderResult Find(string providerId)
+        public static ProviderResult Find(int providerId)
         {
-            return new ProviderResult();
+            using (ApplicationContext context = new ApplicationContext())
+            {
+                return context.ProviderResult.Find(providerId);
+            }
         }
     }
 }

@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Address.cs" />
     <Compile Include="ContactInformation.cs" />
+    <Compile Include="GeoLocation.cs" />
     <Compile Include="ProviderResult.cs" />
     <Compile Include="ProviderWrapper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

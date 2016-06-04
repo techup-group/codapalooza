@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.TempIntegra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.DataAccess", "TampaInnovation.DataAccess\TampaInnovation.DataAccess.csproj", "{392C4273-2E50-4EE0-B939-E829DA2E9DE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.GeoLocation", "TampaInnovation.GeoLocation\TampaInnovation.GeoLocation.csproj", "{CF665171-0101-4D8B-9A90-A01FD70A2605}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,10 @@ Global
 		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -96,5 +102,6 @@ Global
 		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB} = {43319275-F5D6-43A4-8937-42E3D0E26302}
 		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F} = {8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}
 		{392C4273-2E50-4EE0-B939-E829DA2E9DE5} = {43319275-F5D6-43A4-8937-42E3D0E26302}
+		{CF665171-0101-4D8B-9A90-A01FD70A2605} = {43319275-F5D6-43A4-8937-42E3D0E26302}
 	EndGlobalSection
 EndGlobal

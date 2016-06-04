@@ -22,9 +22,9 @@ namespace TampaInnovation.WebServices.Controllers
 
         [HttpGet]
         [Route("{providerId}")]
-        public IHttpActionResult Get([FromUri] string providerId)
+        public IHttpActionResult Get([FromUri] int providerId)
         {
-            if (string.IsNullOrEmpty(providerId))
+            if (providerId == 0)
                 return BadRequest($"Provider id cannot be null");
 
             var result = ResourcesServices.Find(providerId);
