@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[Geography]
 (
-	[GeographyId] INT NOT NULL PRIMARY KEY,
+	[GeographyId] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY,
 	[Provider] NVARCHAR(50) NULL,
 	[ProviderId] INT NULL,
 	[City] NVARCHAR(50) NULL,

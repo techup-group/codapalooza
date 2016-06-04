@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [dbo].[AreaServed]
 (
-	[AreaServedId] INT NULL,
+	[AreaServedId] UNIQUEIDENTIFIER NULL,
 	[Area] NVARCHAR(50) NULL,
 	[ProviderId] INT NULL,
 	[ProviderCreating] NVARCHAR(50) NULL,

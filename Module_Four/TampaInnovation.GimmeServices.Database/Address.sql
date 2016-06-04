@@ -2,6 +2,7 @@
 (
 	[AddressId] INT NULL,
 	[Active] BIT NULL,
+	[AddressType] NVARCHAR(10) NULL,
 	[AddressTypeId] INT NULL,
 	[StreetAddress] NVARCHAR(50) NULL,
 	[Additional] NVARCHAR(50) NULL,
