@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.Business", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEndApplication", "FrontEndApplication\FrontEndApplication.csproj", "{4DBC7646-77B4-4CB3-B159-1FD544B493E9}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TampaInnovation.GimmeServices.Database", "TampaInnovation.GimmeServices.Database\TampaInnovation.GimmeServices.Database.sqlproj", "{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,12 @@ Global
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,5 +81,6 @@ Global
 		{1DF12886-048E-4541-9956-446CAAEE5289} = {D3D65D51-2FD2-4BE7-91F8-B29254F95FEE}
 		{463CDE13-83FC-4978-A733-1A0CE42AE6BD} = {02A2A3DC-D5E5-425C-95A8-CC71D2003121}
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
+		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB} = {43319275-F5D6-43A4-8937-42E3D0E26302}
 	EndGlobalSection
 EndGlobal
