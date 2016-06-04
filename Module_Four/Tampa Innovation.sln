@@ -16,6 +16,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0 - Web App", "4.0 - Web 
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{617D13C1-8B8D-41E7-9956-912D1BF36CB1}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.0 - Web Services", "5.0 - Web Services", "{8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}"
 EndProject
