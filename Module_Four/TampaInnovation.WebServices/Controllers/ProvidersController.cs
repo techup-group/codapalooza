@@ -9,7 +9,7 @@ using TampaInnovation.Models;
 
 namespace TampaInnovation.WebServices.Controllers
 {
-    [RoutePrefix("api/providers")]
+    [RoutePrefix("providers")]
     public class ProvidersController : ApiController
     {
         [HttpGet]

@@ -29,7 +29,66 @@ namespace TampaInnovation.Business
 
         public static List<ProviderWrapper> Search(string query, int? range, int? limit)
         {
-            return new List<ProviderWrapper>();
+            return new List<ProviderWrapper>
+            {
+                new ProviderWrapper
+                {
+                    Distance = 1.1,
+                    Providers = new ProviderResult
+                    {
+                        ContactInformations = new List<ContactInformation>
+                        {
+                            new ContactInformation
+                            {
+                                ContactType = "Phone",
+                                IsActive = true,
+                                Number = "(813) 375-3933"
+                            },
+                            new ContactInformation
+                            {
+                                ContactType = "Fax",
+                                IsActive = true,
+                                Number = "(813) 375-3933"
+                            }
+                        },
+                        Addresses = new List<Address>
+                        {
+                            new Address
+                            {
+                                IsActive = true,
+                                Additional = "",
+                                AddressType = "Physical",
+                                City = "Tampa",
+                                Country = "USA",
+                                Longitude = -82.45938,
+                                Latitude = 27.95493,
+                                State = "FL",
+                                ZipCode = "33612",
+                                StreetAddress = "10049 N Florida Ave"
+                            }
+                        },
+                        ContactPeople = new List<ContactPersonnel>
+                        {
+                            new ContactPersonnel
+                            {
+                                Number = "(813) 375-3933",
+                                Name = "Tomi Steinruck",
+                                Title = "Program Manager, HIV/AIDS Services",
+                                Email = "tsteinruck@ccdosp.org"
+                            }
+                        },
+                        Name = "Catholic Charities - Mercy Apartments (PSH)",
+                        AvailableUnits = "9",
+                        OperationHours = "8:00 am - 5:00 pm",
+                        ProvidedServices = new List<string>
+                        {
+                            "Housing",
+                            "Food"
+                        },
+                        TotalUnits = "20"
+                    }
+                }
+            };
         }
 
         public static ProviderResult Find(string providerId)
