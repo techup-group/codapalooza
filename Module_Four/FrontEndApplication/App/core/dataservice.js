@@ -12,7 +12,9 @@
         ds.getEarnings = getEarnings;
         ds.getProviders = getProviders;
 
-        var baseUrl = "http://localhost:51319/";
+        //var baseUrl = "http://localhost:51319/";
+
+        var appUrl = 'http://tampainnovationwebservices.azurewebsites.net/providers';
 
         function getEarnings() {
             return $http.get(baseUrl + 'api/Values/Get', {
@@ -26,13 +28,23 @@
             })
         }
 
+        //function getProviders(requestObj) {
+        //    return $http.get(baseUrl + 'Providers', {
+        //        params: {
+        //            query: requestObj.query,
+        //            range: requestObj.range,
+        //            limit: requestObj.limit
+        //        }
+        //    }).then(function (response) {
+        //        return response.data;
+        //    }).catch(function (message) {
+        //        exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
+        //    })
+        //}
+
         function getProviders(requestObj) {
-            return $http.get(baseUrl + 'Providers', {
-                params: {
-                    query: requestObj.query,
-                    range: requestObj.range,
-                    limit: requestObj.limit
-                }
+            return $http.post(appUrl, {
+                filters: JSON.stringify(requestObj.requirment), query: requestObj.query, range: requestObj.range, limit: requestObj.limit
             }).then(function (response) {
                 return response.data;
             }).catch(function (message) {
