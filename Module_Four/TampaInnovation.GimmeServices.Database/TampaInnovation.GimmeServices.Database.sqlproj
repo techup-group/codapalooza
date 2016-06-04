@@ -58,4 +58,11 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="Address.sql" />
+    <Build Include="AddressType.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <RefactorLog Include="TampaInnovation.GimmeServices.Database.refactorlog" />
+  </ItemGroup>
 </Project>
