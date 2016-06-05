@@ -14,9 +14,15 @@ namespace TampaInnovation.TempIntegration
     {
         static void Main(string[] args)
         {
-            string directory = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\", "SampleData"));
+            using (ApplicationContext context = new ApplicationContext())
+            {
+                
+            }
+        }
 
-            List<ProviderResult> providerResults = new List<ProviderResult>();
+        private static void GetDataFromFile()
+        {
+            string directory = Path.GetFullPath(Path.Combine(Directory.GetCurrentDirectory(), @"..\..\..\", "SampleData"));
 
             string file = Path.Combine(directory, "providers.txt");
             List<Provider> providers = JsonConvert.DeserializeObject<List<Provider>>(File.ReadAllText(file));

@@ -14,9 +14,20 @@ namespace TampaInnovation.WebServices.Controllers
     {
         [HttpPost]
         [Route("")]
-        public List<ProviderWrapper> Search([FromBody] List<string> filters, [FromUri] string query = null, [FromUri] int range = 50, [FromUri] int limit = 20)
+        public IHttpActionResult Search(SearchRequest searchRequest)
         {
-            return ResourcesServices.Search(filters, query, range, limit);
+            if (searchRequest == null)
+                return BadRequest("Object cannot be null");
+
+            try
+            {
+                return Ok(ResourcesServices.Search(searchRequest));
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(ex.Message);
+            }
         }
 
 
@@ -34,4 +45,6 @@ namespace TampaInnovation.WebServices.Controllers
             return Ok(result);
         }
     }
+
+
 }

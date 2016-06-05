@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using System.Net;
 using System.Web.Http;
 using TampaInnovation.DataAccess;
@@ -49,6 +51,13 @@ namespace TampaInnovation.WebServices.Controllers
             }
 
             return BadRequest(ModelState);
+        }
+
+        [Route("")]
+        [HttpGet]
+        public List<UserRegistration> FindAll(DateTime asOf)
+        {
+            return _ctx.UserRegistrations.Where(t => t.CreatedDate > asOf).OrderBy(t => t.CreatedDate).ToList();
         }
     }
 }
