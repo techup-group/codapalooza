@@ -13,12 +13,15 @@ using TampaInnovation.GimmeServices.Models;
 using TampaInnovation.Models;
 using Address = TampaInnovation.Models.Address;
 using System.Data.Entity;
+using System.Runtime.Caching;
 using Services = TampaInnovation.Models.Services;
 
 namespace TampaInnovation.Business
 {
     public class ResourcesServices
     {
+        private const string CACHE_KEY = "providers";
+        private const string SECTION = "Resources";
         public static List<ServiceGeography> TestCall()
         {
             GimmeshelterClient client = new GimmeshelterClient();
@@ -34,35 +37,55 @@ namespace TampaInnovation.Business
 
         public static List<ProviderWrapper> Search(SearchRequest searchRequest)
         {
-            using (ApplicationContext context = new ApplicationContext())
-            {
-                List<ProviderResult> providerResults = context.ProviderResult.Include(t => t.ContactInformations).Include(t => t.Addresses).Include(t => t.ProvidedServices).ToList();
-                LatLong latLong;
+            List<ProviderResult> providerResults = MemoryStorageCaching.Get<List<ProviderResult>>(CACHE_KEY, SECTION)
+                ?? new List<ProviderResult>();
 
-                foreach (ProviderResult providerResult in providerResults)
+            if (!providerResults.Any())
+            {
+                using (ApplicationContext context = new ApplicationContext())
                 {
-                    providerResult.ProvidedServices = providerResult.ProvidedServices.Distinct(new ServicesEquality()).ToList();
-                }
-                if (!searchRequest.Query.IsValidLatLong(out latLong))
-                {
-                    if (!string.IsNullOrEmpty(searchRequest.Query))
+                    providerResults = context.ProviderResult.Include(t => t.ContactInformations).Include(t => t.Addresses).Include(t => t.ProvidedServices).ToList();
+                    MemoryStorageCaching.Set(CACHE_KEY, providerResults, SECTION, new CacheItemPolicy
                     {
-                        Models.GeoLocation latLongRequest = new GoogleGeoCoder().GetLatLong(searchRequest.Query);
-                        latLong = new LatLong
-                        {
-                            Longitude = latLongRequest.Longitude,
-                            Latitude = latLongRequest.Latitude
-                        };
+                        AbsoluteExpiration = DateTimeOffset.Now.AddHours(1)
+                    });
+                }
+            }
+
+            List<ProviderResult> filteredList = new List<ProviderResult>();
+            LatLong latLong;
+            foreach (ProviderResult providerResult in providerResults)
+            {
+                foreach (string filter in searchRequest.Filters)
+                {
+                    if (providerResult.ProvidedServices.Any(t => t.Name.ToLower().Contains(filter.ToLower())))
+                    {
+                        providerResult.ProvidedServices = providerResult.ProvidedServices.Distinct(new ServicesEquality()).ToList();
+                        providerResult.ContactInformations = providerResult.ContactInformations.Distinct(new ContactEquality()).ToList();
+                        filteredList.Add(providerResult);
                     }
                 }
-
-                if (latLong == null)
-                    throw new Exception("Invalid Query Provided");
-
-                List<ProviderWrapper> providerWrappers = GeoLocations.GetProviderDistances(providerResults, latLong.Latitude, latLong.Longitude, searchRequest.Range);
-
-                return providerWrappers.Take(searchRequest.Limit).ToList();
             }
+
+            if (!searchRequest.Query.IsValidLatLong(out latLong))
+            {
+                if (!string.IsNullOrEmpty(searchRequest.Query))
+                {
+                    Models.GeoLocation latLongRequest = new GoogleGeoCoder().GetLatLong(searchRequest.Query);
+                    latLong = new LatLong
+                    {
+                        Longitude = latLongRequest.Longitude,
+                        Latitude = latLongRequest.Latitude
+                    };
+                }
+            }
+
+            if (latLong == null)
+                throw new Exception("Invalid Query Provided");
+
+            List<ProviderWrapper> providerWrappers = GeoLocations.GetProviderDistances(filteredList, latLong.Latitude, latLong.Longitude, searchRequest.Range);
+
+            return providerWrappers.Take(searchRequest.Limit).ToList();
         }
 
         public static ProviderResult Find(int providerId)
@@ -72,18 +95,31 @@ namespace TampaInnovation.Business
                 return context.ProviderResult.Find(providerId);
             }
         }
+    }
 
-        private class ServicesEquality : IEqualityComparer<Services>
+    public class ServicesEquality : IEqualityComparer<Services>
+    {
+        public bool Equals(Services x, Services y)
         {
-            public bool Equals(Services x, Services y)
-            {
-                return x.Name.Equals(y.Name);
-            }
+            return x.Name.Equals(y.Name);
+        }
 
-            public int GetHashCode(Services obj)
-            {
-                return obj.Name.GetHashCode();
-            }
+        public int GetHashCode(Services obj)
+        {
+            return obj.Name.GetHashCode();
+        }
+    }
+
+    public class ContactEquality : IEqualityComparer<ContactInformation>
+    {
+        public bool Equals(ContactInformation x, ContactInformation y)
+        {
+            return x.Name.Equals(y.Name);
+        }
+
+        public int GetHashCode(ContactInformation obj)
+        {
+            return obj.Name.GetHashCode();
         }
     }
 }
