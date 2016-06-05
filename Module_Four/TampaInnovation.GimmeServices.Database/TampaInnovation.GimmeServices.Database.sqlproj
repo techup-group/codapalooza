@@ -58,18 +58,4 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
-  <ItemGroup>
-    <Build Include="Address.sql" />
-    <Build Include="AddressType.sql" />
-    <Build Include="AreaServed.sql" />
-    <Build Include="BedUnitInventory.sql" />
-    <Build Include="ContactNumber.sql" />
-    <Build Include="Geography.sql" />
-    <Build Include="Provider.sql" />
-    <Build Include="Service.sql" />
-    <Build Include="ServiceGeography.sql" />
-  </ItemGroup>
-  <ItemGroup>
-    <RefactorLog Include="TampaInnovation.GimmeServices.Database.refactorlog" />
-  </ItemGroup>
 </Project>
