@@ -58,12 +58,16 @@ namespace TampaInnovation.Business
             {
                 foreach (string filter in searchRequest.Filters)
                 {
-                    if (providerResult.ProvidedServices.Any(t => t.Name.ToLower().Contains(filter.ToLower())))
+                    providerResult.ProvidedServices = providerResult.ProvidedServices.Distinct(new ServicesEquality()).ToList();
+                    providerResult.ContactInformations = providerResult.ContactInformations.Distinct(new ContactEquality()).ToList();
+
+                    if (filter.Any())
                     {
-                        providerResult.ProvidedServices = providerResult.ProvidedServices.Distinct(new ServicesEquality()).ToList();
-                        providerResult.ContactInformations = providerResult.ContactInformations.Distinct(new ContactEquality()).ToList();
-                        filteredList.Add(providerResult);
+                        if (providerResult.ProvidedServices.Any(t => t.Name.ToLower().Contains(filter.ToLower())))
+                            filteredList.Add(providerResult);
                     }
+                    else
+                        filteredList.Add(providerResult);
                 }
             }
 

@@ -29,8 +29,7 @@ namespace TampaInnovation.WebServices.Controllers
                 return BadRequest(ex.Message);
             }
         }
-
-
+        
         [HttpGet]
         [Route("{providerId}")]
         public IHttpActionResult Get([FromUri] int providerId)
@@ -45,6 +44,4 @@ namespace TampaInnovation.WebServices.Controllers
             return Ok(result);
         }
     }
-
-
 }

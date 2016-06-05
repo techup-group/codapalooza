@@ -107,6 +107,7 @@
     <Content Include="App\userinfo\ui.module.js" />
     <Content Include="App\userinfo\ui.route.js" />
     <Content Include="Images\gimme_shelter_main2.jpg" />
+    <Content Include="Images\home_bg.png" />
     <Content Include="packages.config" />
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
