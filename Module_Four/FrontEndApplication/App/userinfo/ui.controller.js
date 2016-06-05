@@ -5,10 +5,9 @@
         .module('app.ui')
         .controller('UserInfo', UserInfo);
 
-    function HomelessPeople(dataservice, logger, $scope, $location) {
+    function UserInfo(dataservice, logger, $scope, $location) {
         var vm = this;
         vm.title = 'Homeless People';
-   
 
       //  getDataFromAPI();
       
