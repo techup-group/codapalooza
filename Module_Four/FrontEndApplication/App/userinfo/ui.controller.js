@@ -29,7 +29,7 @@
             });
         }
         $scope.done = function() {
-            $location.path("/hp");
+            $location.path("/HP");
         }
     }
 

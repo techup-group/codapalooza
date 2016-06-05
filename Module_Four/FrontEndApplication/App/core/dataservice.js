@@ -18,7 +18,7 @@
         var appUrl = 'http://tampainnovationwebservices.azurewebsites.net/';
 
         function getEarnings() {
-            return $http.get(baseUrl + 'api/Values/Get',
+            return $http.get(appUrl + 'api/Values/Get',
                 {
                     params: {
                         id: 3
@@ -32,29 +32,27 @@
                 });
         }
 
-        //function getProviders(requestObj) {
-        //    return $http.get(baseUrl + 'Providers', {
-        //        params: {
-        //            query: requestObj.query,
-        //            range: requestObj.range,
-        //            limit: requestObj.limit
-        //        }
-        //    }).then(function (response) {
-        //        return response.data;
-        //    }).catch(function (message) {
-        //        exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
-        //    })
-        //}
+        function submitUserForm(userInfo) {
+            return $http.post(appUrl + "users", userInfo)
+                .then(function (response) {
+                    return response.data;
+                })
+                .catch(function (message) {
+                    exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
+                });
+        }
 
         function getProviders(requestObj) {
-            return $http.post(appUrl, 
-                requestObj
-            ).then(function (response) {
-             //   alert("getProviders");
-                return response.data;
-            }).catch(function (message) {
-                exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
-            })
+            return $http.post(appUrl + "providers",
+                    requestObj
+                )
+                .then(function(response) {
+                    //   alert("getProviders");
+                    return response.data;
+                })
+                .catch(function(message) {
+                    exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
+                });
         }
 
         function getReady() {
