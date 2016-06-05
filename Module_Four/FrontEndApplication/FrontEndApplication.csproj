@@ -98,6 +98,10 @@
     <Content Include="App\findResourses\fr.html" />
     <Content Include="App\findResourses\fr.module.js" />
     <Content Include="App\findResourses\fr.route.js" />
+    <Content Include="App\resource\resource.controller.js" />
+    <Content Include="App\resource\resource.html" />
+    <Content Include="App\resource\resource.module.js" />
+    <Content Include="App\resource\resource.route.js" />
     <Content Include="App\userinfo\ui.controller.js" />
     <Content Include="App\userinfo\ui.html" />
     <Content Include="App\userinfo\ui.module.js" />

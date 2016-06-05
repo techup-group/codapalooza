@@ -2,11 +2,15 @@
     'use strict';
 
     angular
-        .module('app.fr')
-        .controller('FindResource', FindResource);
+        .module('app.resource')
+        .controller('resource', resource);
 
-    function FindResource(dataservice, logger, $scope, $location) {
-
+    function resource(dataservice, logger, $scope, $location) {
+        var vm = this;
+        vm.title = 'Homeless People';
+        var locat;
+     //   alert("hello");
+        $scope.test = "Testing";
 
       //  getDataFromAPI();
       
@@ -21,7 +25,7 @@
         $scope.Update = function () {
             navigator.geolocation.getCurrentPosition(success, error);
 
-            var userSelection = ["CLOTHING", "FOOD"];
+            var userSelection = ["SHOWERS", "BEDS", "ADA"];
 
 
             var requestObj = new Object();
@@ -31,6 +35,7 @@
             requestObj.limit = 20;
             return dataservice.getProviders(requestObj).then(function (response) {
                 $scope.myData = response;
+
             }).catch(function (err) {
                 logger.error('Call to API failed' + err);
             });
