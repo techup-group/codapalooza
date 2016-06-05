@@ -45,7 +45,7 @@ namespace TampaInnovation.WebServices.Controllers
                 catch (Exception)
                 {
                     return StatusCode(HttpStatusCode.InternalServerError);
-                    }
+                }
 
                 return StatusCode(HttpStatusCode.Accepted);
             }

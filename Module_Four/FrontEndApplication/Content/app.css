@@ -8,6 +8,10 @@
     text-transform: uppercase;
     max-width: 100%;
 }  
+
+.navbar-inverse .navbar-nav > li > a {
+    color: white;
+}
 /*.btn-primary {
     color: #C2B6E7;
     background-color: #337ab7;
@@ -111,7 +115,7 @@
 
 section {
     width: 100vw;
-    min-height: 100vh;
+    min-height: 90vh;
     padding: 25px;
 }
 img {
@@ -131,7 +135,7 @@ img:hover {
 }
 #home {
   
-    background: url('../Images/gimme_shelter_main2.jpg');
+    background: url('../Images/home_bg.png');
     background-size: 100% 100%;
 }
 #contact {

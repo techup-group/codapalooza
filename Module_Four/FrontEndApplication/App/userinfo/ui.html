@@ -11,117 +11,93 @@
 </head>
 
 <body data-spy="scroll" data-target=".navbar">
-    <nav class="navbar navbar-inverse navbar-fixed-bottom text-center">
-        <ul class="nav navbar-nav">
-
-            <li><a href="#urgentassistance">I NEED URGENT ASSISTANCE</a></li>
-            <li><a href="#/FR">FIND RESOURCES FOR ME</a></li>
-            <li><a href="#findresourcesfamily">FIND RESOURCES FOR A FAMILY</a></li>
-
-        </ul>
-    </nav>
-    <section id="home" class="text-primary text-center">
-
-
-        <h1>Resources4U</h1>
-        <p class="lead">App to help those in need...</p>
-
-
-        <a href="#" class="btn btn-danger btn-lg">Help NOW!</a>
-
-        <div class="spinner">
-            <div class="curve_top_left"></div>
-            <div class="curve_bottom_right"></div>
-            <div class="curve_top_right"></div>
-            <div class="curve_bottom_left"></div>
-            <div class="center_circle"></div>
-        </div>
-
-    </section>
-    <section id="urgentassistance" class="text-center"></section>
-
-    <section id="findresourcesme">
+    <section ng-hide="isThankYou">
         <form>
-            <div class="panel-group" id="accordion">
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse1">
-                                RESOURCES
-                            </a><span class="caret text-right"></span>
-                        </h4>
-                    </div>
-                    <div id="collapse1" class="panel-collapse collapse in">
-                        <div class="panel-body">
-                            <div class="form-group">
-
-                                <div class="checkbox checkbox-info">
-                                    <label>
-                                        <input type="checkbox"> CLOTHING
-                                    </label>
-                                </div>
-                                <div class="checkbox checkbox-info">
-                                    <label>
-                                        <input type="checkbox"> FOOD
-                                    </label>
-                                </div>
-                                <div class="checkbox checkbox-info">
-                                    <label>
-                                        <input type="checkbox"> SHELTER
-                                    </label>
-                                </div>
-
-                            </div>
-
-
-                        </div>
-                    </div>
+            <div class="form-group">
+                <label for="yourFirstName" class="control-label">First Name</label>
+                <input type="text" class="form-control" id="yourFirstName" placeholder="First name" ng-model="firstName">
+            </div>
+            <div class="form-group">
+                <label for="yourLastName" class="control-label">Last Name</label>
+                <input type="text" class="form-control" id="yourLastName" placeholder="Last name" ng-model="lastName">
+            </div>
+            <div class="form-group">
+                <label for="yourPhone" class="control-label">Phone</label>
+                <input type="text" class="form-control" id="yourPhone" placeholder="(XXX)XXX-XXXX" ng-model="phone">
+            </div>
+            <div class="form-group">
+                <label for="yourEmail" class="control-label">Email address</label>
+                <input type="email" class="form-control" id="yourEmail" placeholder="Your Email Address" ng-model="email">
+            </div>
+            <div class="radio">
+                <label>
+                    <input type="radio" name="optionsStatus" id="optionsRadios1" value="single" ng-model="marriableStatus"> Single
+                </label>
+                <div class="radio">
+                    <label>
+                        <input type="radio" name="optionsGender" class="disabled" value="Male" ng-model="gender" ng-disabled="marriableStatus != 'single'"> Male
+                    </label>
                 </div>
-                <div class="panel panel-default">
-                    <div class="panel-heading">
-                        <h4 class="panel-title">
-                            <a data-toggle="collapse" data-parent="#accordion" href="#collapse2">
-                                HUMAN SERVICES
-                            </a><span class="caret"></span>
-                        </h4>
-                    </div>
-                    <div id="collapse2" class="panel-collapse collapse">
-                        <div class="panel-body">
-                            <div class="form-group">
-
-                                <div class="checkbox checkbox-info">
-                                    <label>
-                                        <input type="checkbox"> DOMESTIC VIOLENCE
-                                    </label>
-                                </div>
-                                <div class="checkbox checkbox-info">
-                                    <label>
-                                        <input type="checkbox"> MEDICAL
-                                    </label>
-                                </div>
-                                <div class="checkbox checkbox-info">
-                                    <label>
-                                        <input type="checkbox"> PERSONAL HYGIENE(diapers, toothbrush, etc.)
-                                    </label>
-                                </div>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <br>
-                <div class="text-center">
-                    <button type="submit" class="btn btn-success">SEARCH</button>
+                <div class="radio">
+                    <label>
+                        <input type="radio" name="optionsGender" value="Female" ng-model="gender" ng-disabled="marriableStatus != 'single'"> Female
+                    </label>
                 </div>
             </div>
+            <div class="radio">
+                <label>
+                    <input type="radio" name="optionsStatus" id="optionsRadios2" value="married" ng-model="marriableStatus"> Married
+                </label>
+            </div>
+            <div class="radio">
+                <label>
+                    <input type="radio" name="optionsStatus" id="optionsRadios3" value="has partner" ng-model="marriableStatus"> Partnership
+                </label>
+            </div>
+            <div class="form-group">
+                <label for="sel1">How many children under 18?:</label>
+                <select class="form-control" id="sel1" ng-model="childrenCount">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5+</option>
 
+                </select>
+            </div>
+
+
+            <button type="submit" class="btn btn-primary" ng-click="submit()">Submit</button>
         </form>
     </section>
 
-    <section id="findresourcesfamily">
-        <h2>Resources For Family</h2>
+    <section ng-show="isThankYou">
+        <div class="row">
+            <div class="well">
+                <div class="text-center">
+                    <h3>Thank you!</h3>
+                    <br>
+                </div>
+                <p>Your information has been submitted to&nbsp;<span id="providername">Catholic Charities</span>.</p>
+                <br>
+                <p>Arrive by&nbsp;<span id="timearrive"><strong class="text-danger">5PM</strong></span>&nbsp; to keep reservation</p>
+                <br>
+                <h5 id="providerlocation"><strong>Catholic Charities - Mercy Apartments</strong></h5>
+                <br>
+                <a href="#">Get Directions</a>
+                <div>
+                    <br>
+                    <p id="streetname">10049 N Florida Avenue</p>
+                    <p id="citystatezip">Tampa,FL 33612</p>
+                    <p>Phone: <span id="phone">813-375-3933</span></p>
+                    <p>Hours: <span id="timeopen">8:00 AM - 8:00 PM</span></p>
+                </div>
 
+            </div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-primary btn-block" ng-click="done()">DONE</button>
+            </div>
+        </div>
     </section>
 </body>
 

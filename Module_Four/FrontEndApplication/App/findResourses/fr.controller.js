@@ -31,7 +31,6 @@
             requestObj.limit = 20;
             return dataservice.getProviders(requestObj).then(function (response) {
                 $scope.myData = response;
-
             }).catch(function (err) {
                 logger.error('Call to API failed' + err);
             });

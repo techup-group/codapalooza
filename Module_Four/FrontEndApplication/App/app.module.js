@@ -2,5 +2,6 @@
     'app.hp',
     'app.fr',
     ,'app.layout'
-    , 'app.core'
+    , 'app.core',
+    'app.ui'
 ]);

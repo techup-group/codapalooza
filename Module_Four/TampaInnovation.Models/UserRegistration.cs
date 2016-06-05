@@ -14,8 +14,8 @@ namespace TampaInnovation.Models
         public string Email { get; set; }
         public string Phone { get; set; }
         public string Gender { get; set; }
-        public bool IsMarried { get; set; }
-        public int FamilyCount { get; set; }
+        public string MarriageStatus { get; set; }
+        public string FamilyCount { get; set; }
         public DateTime CreatedDate  { get; set; } = DateTime.UtcNow;
     }
 }

@@ -11,21 +11,25 @@
         ds.ready = ready;
         ds.getEarnings = getEarnings;
         ds.getProviders = getProviders;
+        ds.submitUserForm = submitUserForm;
 
         //var baseUrl = "http://localhost:51319/";
 
-        var appUrl = 'http://tampainnovationwebservices.azurewebsites.net/providers';
+        var appUrl = 'http://tampainnovationwebservices.azurewebsites.net/';
 
         function getEarnings() {
-            return $http.get(baseUrl + 'api/Values/Get', {
-                params: {
-                    id: 3
-                }
-            }).then(function(response) {
-                return response.data;
-            }).catch(function(message){
-                exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
-            })
+            return $http.get(baseUrl + 'api/Values/Get',
+                {
+                    params: {
+                        id: 3
+                    }
+                })
+                .then(function(response) {
+                    return response.data;
+                })
+                .catch(function(message) {
+                    exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
+                });
         }
 
         //function getProviders(requestObj) {
@@ -43,15 +47,30 @@
         //}
 
         function getProviders(requestObj) {
-            return $http.post(appUrl, {
-                filters: JSON.stringify(requestObj.requirment),
-                query: requestObj.query, range: requestObj.range, limit: requestObj.limit
-            }).then(function (response) {
-                alert("getProviders");
-                return response.data;
-            }).catch(function (message) {
-                exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
-            })
+            return $http.post(appUrl + "providers",
+                {
+                    filters: JSON.stringify(requestObj.requirment),
+                    query: requestObj.query,
+                    range: requestObj.range,
+                    limit: requestObj.limit
+                })
+                .then(function(response) {
+                    alert("getProviders");
+                    return response.data;
+                })
+                .catch(function(message) {
+                    exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
+                });
+        }
+
+        function submitUserForm(userInfo) {
+            return $http.post(appUrl + "users", userInfo)
+                .then(function (response) {
+                    return response.data;
+                })
+                .catch(function (message) {
+                    exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);
+                });
         }
 
         function getReady() {
