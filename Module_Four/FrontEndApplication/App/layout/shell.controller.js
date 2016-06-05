@@ -12,6 +12,10 @@
         $scope.Redirect = function () {
             $location.path('/HP');
         }
+
+        $scope.gotoFR = function () {
+            $location.path("/FR");
+        }
         $location.path('/HP');
     }
 })();
