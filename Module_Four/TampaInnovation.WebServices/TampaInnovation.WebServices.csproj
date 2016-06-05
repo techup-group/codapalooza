@@ -297,7 +297,7 @@
       <Name>TampaInnovation.Business</Name>
     </ProjectReference>
     <ProjectReference Include="..\TampaInnovation.DataAccess\TampaInnovation.DataAccess.csproj">
-      <Project>{392C4273-2E50-4EE0-B939-E829DA2E9DE5}</Project>
+      <Project>{392c4273-2e50-4ee0-b939-e829da2e9de5}</Project>
       <Name>TampaInnovation.DataAccess</Name>
     </ProjectReference>
     <ProjectReference Include="..\TampaInnovation.GimmeServices\TampaInnovation.GimmeServices.csproj">

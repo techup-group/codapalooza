@@ -40,12 +40,12 @@ namespace TampaInnovation.WebServices.Controllers
                 try
                 {
                     _ctx.UserRegistrations.Add(userRegistration);
+                    _ctx.SaveChanges();
                 }
                 catch (Exception)
                 {
                     return StatusCode(HttpStatusCode.InternalServerError);
-                    ;
-                }
+                    }
 
                 return StatusCode(HttpStatusCode.Accepted);
             }

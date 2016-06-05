@@ -44,8 +44,10 @@
 
         function getProviders(requestObj) {
             return $http.post(appUrl, {
-                filters: JSON.stringify(requestObj.requirment), query: requestObj.query, range: requestObj.range, limit: requestObj.limit
+                filters: JSON.stringify(requestObj.requirment),
+                query: requestObj.query, range: requestObj.range, limit: requestObj.limit
             }).then(function (response) {
+                alert("getProviders");
                 return response.data;
             }).catch(function (message) {
                 exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);

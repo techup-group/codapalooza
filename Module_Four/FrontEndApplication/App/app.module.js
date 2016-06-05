@@ -1,5 +1,6 @@
 ﻿angular.module('app', [
-    'app.hp'
+    'app.hp',
+    'app.fr',
     ,'app.layout'
     , 'app.core'
 ]);
