@@ -2,15 +2,11 @@
     'use strict';
 
     angular
-        .module('app.hp')
-        .controller('HomelessPeople', HomelessPeople);
+        .module('app.fr')
+        .controller('FindResource', FindResource);
 
-    function HomelessPeople(dataservice, logger, $scope, $location) {
-        var vm = this;
-        vm.title = 'Homeless People';
-        var locat;
-     //   alert("hello");
-        $scope.test = "Testing";
+    function FindResource(dataservice, logger, $scope, $location) {
+
 
       //  getDataFromAPI();
       
@@ -29,7 +25,7 @@
 
 
             var requestObj = new Object();
-            requestObj.filters = userSelection;
+            requestObj.requirment = userSelection;
             requestObj.query = '28.053397' + ',' + '-82.4473383';
             requestObj.range = 25;
             requestObj.limit = 20;

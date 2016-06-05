@@ -8,8 +8,10 @@
     /* @ngInject */
     function shell(config, logger, $location, $scope) {
     //    alert("hello shell");
+      //  $location.path('/HP');
+        $scope.Redirect = function () {
+            $location.path('/HP');
+        }
         $location.path('/HP');
-
-        
     }
 })();

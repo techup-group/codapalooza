@@ -108,3 +108,144 @@
 }
 
 .argh3 {border-width:medium; border-collapse:separate; border-spacing:2px;}
+
+section {
+    width: 100vw;
+    min-height: 100vh;
+    padding: 25px;
+}
+img {
+    width: 200px;
+    height: 300px;
+    transition: opacity 1s ease-in-out;
+    border: none;
+}
+img:hover {
+    opacity: .5;
+}
+.col-text {
+    -webkit-column-count: 3;
+}
+#cl_white {
+    color: #fff;
+}
+#home {
+  
+    background: url('../Images/gimme_shelter_main2.jpg');
+    background-size: 100% 100%;
+}
+#contact {
+    background: url(../images/fire.jpg);
+    background-size: 100% 100%;
+}
+
+#about {
+    background: url(../images/schedule.jpg) ;
+    
+    background-size: 100% 100%;
+}
+
+
+.spinner {
+    position: relative;
+    width: 6rem;
+    height: 6rem;
+    margin: 6rem auto;
+    
+}
+div[class^='curve_'] {
+    position: absolute;
+    transform: rotate(135deg);
+    animation: spin 4s infinite;
+    
+}
+.curve_top_left {
+    width: 3rem;
+    height: 3rem;
+    border-top: 0.5rem solid #fff;
+    border-left: 0.5rem solid #fff;
+    border-top-left-radius: 200%;
+    top: 0;
+    left: 0;
+    transform-origin: 100% 100%;
+}
+.curve_bottom_right {
+    width: 3rem;
+    height: 3rem;
+    border-bottom: 0.5rem solid #fff;
+    border-right: 0.5rem solid #fff;
+    border-bottom-right-radius: 200%;
+    bottom: 0;
+    right: 0;
+    transform-origin: 0% 0%;
+}
+.curve_top_right {
+    width: 2rem;
+    height: 2rem;
+    border-top: 0.5rem solid #fff;
+    border-right: 0.5rem solid #fff;
+    border-top-right-radius: 200%;
+    top: 1rem;
+    right: 1rem;
+    transform-origin: 0% 100%;
+}
+.curve_bottom_left {
+    width: 2rem;
+    height: 2rem;
+    border-bottom: 0.5rem solid #fff;
+    border-left: 0.5rem solid #fff;
+    border-bottom-left-radius: 200%;
+    bottom: 1rem;
+    left: 1rem;
+    transform-origin: 100% 0%;
+}
+.center_circle {
+    width: 1.5rem;
+    height: 1.5rem;
+    background: #fff;
+    border-radius: 50%;
+    position: absolute;
+    top: 2.25rem;
+    left: 2.25rem;
+    animation: pulse 2s infinite;
+}
+@keyframes spin {
+    0% {
+        transform: rotate(135deg);
+        opacity: 1;
+    }
+    25% {
+        opacity: 0.75;
+    }
+    50% {
+        transform: rotate(675deg);
+        opacity: 1;
+    }
+    75% {
+        opacity: 0.75;
+    }
+    100% {
+        transform: rotate(135deg);
+        opacity: 1;
+    }
+}
+@keyframes pulse {
+    0% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+.panel > .panel-heading {
+    background:#111;
+	background:linear-gradient(#1ebdbe, #107677);
+	border-radius:6px;
+	box-shadow:0 2px 2px #ccc;
+    color:#fff;
+}
+
