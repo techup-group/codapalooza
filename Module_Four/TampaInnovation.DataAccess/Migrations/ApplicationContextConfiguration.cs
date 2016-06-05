@@ -6,7 +6,7 @@ namespace TampaInnovation.DataAccess.Migrations
     {
         public ApplicationContextConfiguration()
         {
-            AutomaticMigrationsEnabled = false;
+            AutomaticMigrationsEnabled = true;
             MigrationsDirectory = "Migrations\\History";
             MigrationsNamespace = "TampaInnovation.DataAccess.Migrations.History";
         }

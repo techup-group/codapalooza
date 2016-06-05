@@ -1,4 +1,5 @@
 using System.Data.Entity;
+using TampaInnovation.DataAccess.Migrations;
 using TampaInnovation.Models;
 
 namespace TampaInnovation.DataAccess
@@ -7,7 +8,7 @@ namespace TampaInnovation.DataAccess
     {
         public ApplicationContext() : base("DefaultConnection")
         {
-            Database.SetInitializer<ApplicationContext>(null);
+            Database.SetInitializer(new MigrateDatabaseToLatestVersion<ApplicationContext, ApplicationContextConfiguration>());
         }
 
         public DbSet<ProviderResult> ProviderResult { get; set; }
