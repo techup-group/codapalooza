@@ -41,7 +41,7 @@ namespace TampaInnovation.TempIntegration
             contactNumbers.ForEach(t => t.Provider = t.Provider.Replace(" ", ""));
 
             file = Path.Combine(directory, "services.txt");
-            List<Services> services = JsonConvert.DeserializeObject<List<Services>>(File.ReadAllText(file));
+            List<GimmeServices.Models.Services> services = JsonConvert.DeserializeObject<List<GimmeServices.Models.Services>>(File.ReadAllText(file));
             services.ForEach(t => t.Provider = t.Provider.Replace(" ", "").Replace("INACTIVE", ""));
 
             using (ApplicationContext context = new ApplicationContext())
@@ -107,11 +107,14 @@ namespace TampaInnovation.TempIntegration
                         providerResult.ContactInformations.Add(contact);
                     }
 
-                    List<Services> gimmeServices = services.Where(t => t.Provider.StartsWith(initialCharacters, StringComparison.OrdinalIgnoreCase)).ToList();
+                    List<GimmeServices.Models.Services> gimmeServices = services.Where(t => t.Provider.StartsWith(initialCharacters, StringComparison.OrdinalIgnoreCase)).ToList();
 
-                    foreach (Services service in gimmeServices)
+                    foreach (GimmeServices.Models.Services service in gimmeServices)
                     {
-                        providerResult.ProvidedServices.Add(service.Name);
+                        providerResult.ProvidedServices.Add(new Models.Services
+                        {
+                            Name = service.Name
+                        });
                     }
 
                     context.ProviderResult.Add(providerResult);

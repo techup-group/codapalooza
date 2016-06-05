@@ -12,6 +12,7 @@ using TampaInnovation.GimmeServices.Business;
 using TampaInnovation.GimmeServices.Models;
 using TampaInnovation.Models;
 using Address = TampaInnovation.Models.Address;
+using System.Data.Entity;
 
 namespace TampaInnovation.Business
 {
@@ -25,7 +26,7 @@ namespace TampaInnovation.Business
             client.GetBedUnitInventory<List<BedUnitInventory>>();
             client.GetContactNumbers<List<ContactNumber>>();
             client.GetGeography<List<Geography>>(33607);
-            client.GetServices<List<Services>>();
+            client.GetServices<List<GimmeServices.Models.Services>>();
             client.GetProviders<List<Provider>>();
             return client.GetServicesGeography<List<ServiceGeography>>(33607);
         }
@@ -34,7 +35,7 @@ namespace TampaInnovation.Business
         {
             using (ApplicationContext context = new ApplicationContext())
             {
-                List<ProviderResult> providerResults = context.ProviderResult.ToList();
+                List<ProviderResult> providerResults = context.ProviderResult.Include(t => t.ContactInformations).Include(t => t.Addresses).ToList();
                 LatLong latLong;
                 if (!query.IsValidLatLong(out latLong))
                 {
