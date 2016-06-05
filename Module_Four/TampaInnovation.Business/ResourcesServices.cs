@@ -13,6 +13,7 @@ using TampaInnovation.GimmeServices.Models;
 using TampaInnovation.Models;
 using Address = TampaInnovation.Models.Address;
 using System.Data.Entity;
+using Services = TampaInnovation.Models.Services;
 
 namespace TampaInnovation.Business
 {
@@ -31,17 +32,22 @@ namespace TampaInnovation.Business
             return client.GetServicesGeography<List<ServiceGeography>>(33607);
         }
 
-        public static List<ProviderWrapper> Search(List<string> filters, string query, int range, int limit)
+        public static List<ProviderWrapper> Search(SearchRequest searchRequest)
         {
             using (ApplicationContext context = new ApplicationContext())
             {
-                List<ProviderResult> providerResults = context.ProviderResult.Include(t => t.ContactInformations).Include(t => t.Addresses).ToList();
+                List<ProviderResult> providerResults = context.ProviderResult.Include(t => t.ContactInformations).Include(t => t.Addresses).Include(t => t.ProvidedServices).ToList();
                 LatLong latLong;
-                if (!query.IsValidLatLong(out latLong))
+
+                foreach (ProviderResult providerResult in providerResults)
                 {
-                    if (!string.IsNullOrEmpty(query))
+                    providerResult.ProvidedServices = providerResult.ProvidedServices.Distinct(new ServicesEquality()).ToList();
+                }
+                if (!searchRequest.Query.IsValidLatLong(out latLong))
+                {
+                    if (!string.IsNullOrEmpty(searchRequest.Query))
                     {
-                        Models.GeoLocation latLongRequest = new GoogleGeoCoder().GetLatLong(query);
+                        Models.GeoLocation latLongRequest = new GoogleGeoCoder().GetLatLong(searchRequest.Query);
                         latLong = new LatLong
                         {
                             Longitude = latLongRequest.Longitude,
@@ -53,9 +59,9 @@ namespace TampaInnovation.Business
                 if (latLong == null)
                     throw new Exception("Invalid Query Provided");
 
-                List<ProviderWrapper> providerWrappers = GeoLocations.GetProviderDistances(providerResults, latLong.Latitude, latLong.Longitude, range);
+                List<ProviderWrapper> providerWrappers = GeoLocations.GetProviderDistances(providerResults, latLong.Latitude, latLong.Longitude, searchRequest.Range);
 
-                return providerWrappers.Take(limit).ToList();
+                return providerWrappers.Take(searchRequest.Limit).ToList();
             }
         }
 
@@ -64,6 +70,19 @@ namespace TampaInnovation.Business
             using (ApplicationContext context = new ApplicationContext())
             {
                 return context.ProviderResult.Find(providerId);
+            }
+        }
+
+        private class ServicesEquality : IEqualityComparer<Services>
+        {
+            public bool Equals(Services x, Services y)
+            {
+                return x.Name.Equals(y.Name);
+            }
+
+            public int GetHashCode(Services obj)
+            {
+                return obj.Name.GetHashCode();
             }
         }
     }
