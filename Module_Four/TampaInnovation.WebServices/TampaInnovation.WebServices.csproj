@@ -284,6 +284,10 @@
       <Project>{463CDE13-83FC-4978-A733-1A0CE42AE6BD}</Project>
       <Name>TampaInnovation.Business</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TampaInnovation.DataAccess\TampaInnovation.DataAccess.csproj">
+      <Project>{392c4273-2e50-4ee0-b939-e829da2e9de5}</Project>
+      <Name>TampaInnovation.DataAccess</Name>
+    </ProjectReference>
     <ProjectReference Include="..\TampaInnovation.GimmeServices\TampaInnovation.GimmeServices.csproj">
       <Project>{9ABD8288-9B31-4488-870B-5152A66A5D90}</Project>
       <Name>TampaInnovation.GimmeServices</Name>

@@ -57,9 +57,9 @@
   <ItemGroup>
     <Compile Include="ApplicationContext.cs" />
     <Compile Include="Migrations\ApplicationContextConfiguration.cs" />
-    <Compile Include="Migrations\History\201606042152526_Initial.cs" />
-    <Compile Include="Migrations\History\201606042152526_Initial.Designer.cs">
-      <DependentUpon>201606042152526_Initial.cs</DependentUpon>
+    <Compile Include="Migrations\History\201606050012188_Initial.cs" />
+    <Compile Include="Migrations\History\201606050012188_Initial.Designer.cs">
+      <DependentUpon>201606050012188_Initial.cs</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringConvention.cs" />
@@ -69,15 +69,16 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\History\201606042152526_Initial.resx">
-      <DependentUpon>201606042152526_Initial.cs</DependentUpon>
-    </EmbeddedResource>
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\TampaInnovation.Models\TampaInnovation.Models.csproj">
       <Project>{1DF12886-048E-4541-9956-446CAAEE5289}</Project>
       <Name>TampaInnovation.Models</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\History\201606050012188_Initial.resx">
+      <DependentUpon>201606050012188_Initial.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

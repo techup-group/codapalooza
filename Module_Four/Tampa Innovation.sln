@@ -10,9 +10,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0 - Business", "3.0 - Business", "{02A2A3DC-D5E5-425C-95A8-CC71D2003121}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0 - Web App", "4.0 - Web App", "{0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\app.module.js = ..\..\..\..\TFS\BBI_IT_TeamProject\HR\PTOManager\DEV\DEV\code\PTO\PTO\App\app.module.js
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{617D13C1-8B8D-41E7-9956-912D1BF36CB1}"
 	ProjectSection(SolutionItems) = preProject
@@ -45,6 +42,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.TempIntegration", "TampaInnovation.TempIntegration\TampaInnovation.TempIntegration.csproj", "{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.DataAccess", "TampaInnovation.DataAccess\TampaInnovation.DataAccess.csproj", "{392C4273-2E50-4EE0-B939-E829DA2E9DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.GeoLocation", "TampaInnovation.GeoLocation\TampaInnovation.GeoLocation.csproj", "{CF665171-0101-4D8B-9A90-A01FD70A2605}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -86,6 +85,10 @@ Global
 		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -98,5 +101,7 @@ Global
 		{4DBC7646-77B4-4CB3-B159-1FD544B493E9} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
 		{ABD9F045-164D-4A58-8363-0B3E76C3ADAB} = {43319275-F5D6-43A4-8937-42E3D0E26302}
 		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F} = {8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5} = {43319275-F5D6-43A4-8937-42E3D0E26302}
+		{CF665171-0101-4D8B-9A90-A01FD70A2605} = {43319275-F5D6-43A4-8937-42E3D0E26302}
 	EndGlobalSection
 EndGlobal

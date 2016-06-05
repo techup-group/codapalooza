@@ -13,7 +13,7 @@ namespace TampaInnovation.DataAccess.Migrations.History
         
         string IMigrationMetadata.Id
         {
-            get { return "201606042152526_Initial"; }
+            get { return "201606050012188_Initial"; }
         }
         
         string IMigrationMetadata.Source

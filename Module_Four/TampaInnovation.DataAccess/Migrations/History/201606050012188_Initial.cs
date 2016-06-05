@@ -48,12 +48,23 @@ namespace TampaInnovation.DataAccess.Migrations.History
                     {
                         Id = c.Int(nullable: false, identity: true),
                         Name = c.String(maxLength: 250),
-                        ProviderId = c.String(maxLength: 250),
                         OperationHours = c.String(maxLength: 250),
                         AvailableUnits = c.String(maxLength: 250),
                         TotalUnits = c.String(maxLength: 250),
                     })
                 .PrimaryKey(t => t.Id);
+            
+            CreateTable(
+                "dbo.Services",
+                c => new
+                    {
+                        Id = c.Int(nullable: false, identity: true),
+                        Name = c.String(maxLength: 250),
+                        ProviderResult_Id = c.Int(),
+                    })
+                .PrimaryKey(t => t.Id)
+                .ForeignKey("dbo.ProviderResults", t => t.ProviderResult_Id)
+                .Index(t => t.ProviderResult_Id);
             
             CreateTable(
                 "dbo.UserRegistrations",
@@ -75,11 +86,14 @@ namespace TampaInnovation.DataAccess.Migrations.History
         
         public override void Down()
         {
+            DropForeignKey("dbo.Services", "ProviderResult_Id", "dbo.ProviderResults");
             DropForeignKey("dbo.ContactInformations", "ProviderResult_Id", "dbo.ProviderResults");
             DropForeignKey("dbo.Addresses", "ProviderResult_Id", "dbo.ProviderResults");
+            DropIndex("dbo.Services", new[] { "ProviderResult_Id" });
             DropIndex("dbo.ContactInformations", new[] { "ProviderResult_Id" });
             DropIndex("dbo.Addresses", new[] { "ProviderResult_Id" });
             DropTable("dbo.UserRegistrations");
+            DropTable("dbo.Services");
             DropTable("dbo.ProviderResults");
             DropTable("dbo.ContactInformations");
             DropTable("dbo.Addresses");

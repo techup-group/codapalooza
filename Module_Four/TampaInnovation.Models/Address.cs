@@ -14,4 +14,5 @@ namespace TampaInnovation.Models
         public string ZipCode { get; set; }
         public string State { get; set; }
     }
+
 }
