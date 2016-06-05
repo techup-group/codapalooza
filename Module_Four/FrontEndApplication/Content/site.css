@@ -381,11 +381,11 @@ code {
     }
 }
 
-@media (max-width: 480px) {
+/*@media (max-width: 480px) {
     input.form-control, select.form-control, textarea.form-control {
         width: 70%;
     }
-}
+}*/
 
 @media (max-width: 320px) {
     .today-datas li {

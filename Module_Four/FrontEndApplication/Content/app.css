@@ -18,7 +18,7 @@
     z-index: 100;
     margin-top: -200px;
 
-    width: 98%;
+    width: 95%;
     /*margin-left: -300px;*/
 }
 
@@ -147,7 +147,7 @@
 }
 
 section {
-    width: 100vw;
+    width: 95vw;
     min-height: 90vh;
     padding: 25px;
 }
