@@ -18,7 +18,7 @@
         var appUrl = 'http://tampainnovationwebservices.azurewebsites.net/';
 
         function getEarnings() {
-            return $http.get(appUrl + 'api/Values/Get',
+            return $http.get(baseUrl + 'api/Values/Get',
                 {
                     params: {
                         id: 3
@@ -42,13 +42,87 @@
                 });
         }
 
+      function shapeResourceData(data) {
+            var shapedData = [{ resourceName: 'Clothing', details: [] },
+                              { resourceName: 'Food', details: [] },
+                              { resourceName: 'Shelter', details: [] }, 
+                              { resourceName: 'Domestic Violence', details: [] },
+                              { resourceName: 'Hygiene Products', details: [] },
+                              { resourceName: 'Medical', details: [] }];
+
+           function getIndex(resource) {
+               for (var idx = 0; idx < shapedData.length; idx++) {
+                   if (shapedData[idx].resourceName === resource.name) {
+                        return idx;
+                   }
+               }
+               return -1;
+           }
+  
+           function getPhysical(addrDtl) {
+               for (var idx = 0; idx < addrDtl.providers.addresses.length; idx++) {
+                   if (addrDtl.providers.addresses[idx].addressType === 'Physical') {
+                       return {
+                           streetAddress: addrDtl.providers.addresses[idx].streetAddress, city: addrDtl.providers.addresses[idx].city, state: addrDtl.providers.addresses[idx].state,
+                           zipCode: addrDtl.providers.addresses[idx].zipCode, country: addrDtl.providers.addresses[idx].country, landmarks: addrDtl.providers.addresses[idx].landmarks,
+                           latitude: addrDtl.providers.addresses[idx].latitude, longitude: addrDtl.providers.addresses[idx].longitude
+                       };
+                   }
+               }
+
+               return {};
+           }
+
+           function getPhone(phoneDtl) {
+               for (var idx = 0; idx < phoneDtl.providers.contactInformations.length; idx++) {
+                   if (phoneDtl.providers.contactInformations[idx].name.substring(0, 4) === 'Main') {
+                       return phoneDtl.providers.contactInformations[idx].number;
+                   };
+                }
+
+               return null;
+           }
+
+
+            for (var providerIdx = 0; providerIdx < data.length; providerIdx++) {
+                var dt = data[providerIdx];
+
+                for (var resourceIdx = 0; resourceIdx < dt.providers.providedServices.length; resourceIdx++) {
+                    var idxShape = getIndex(dt.providers.providedServices[resourceIdx]);
+                    if (idxShape<0)
+                        continue;;
+
+                    var addr = getPhysical(dt);
+                    shapedData[idxShape].details.push({
+                        distance: dt.distance,
+                        providerName: dt.providers.name,
+                        streetAddress: addr.streetAddress,
+                        city: addr.city,
+                        state: addr.state,
+                        zipCode: addr.zipCode,
+                        country: addr.country,
+                        landmarks: addr.landmarks,
+                        latitude: addr.latitude,
+                        longitude: addr.longitude,
+                        operationHours: dt.providers.operationHours,
+                        totalUnits: dt.providers.totalUnits,
+                        phoneNumber: getPhone(dt)
+                    });
+                }
+
+            }
+
+            return shapedData;
+        }
+
+
         function getProviders(requestObj) {
             return $http.post(appUrl + "providers",
                     requestObj
                 )
                 .then(function(response) {
                     //   alert("getProviders");
-                    return response.data;
+                    return shapeResourceData(response.data);
                 })
                 .catch(function(message) {
                     exception.catcher('XHR Failed for GetDetails')(message.data.ExceptionMessage);

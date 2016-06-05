@@ -10,17 +10,18 @@
 
 </head>
 <body>
-    <section id="findresourcesme">
+    <input type="checkbox" ng-model="myValue" aria-label="Toggle ngShow" hidden="hidden"><br />
+
+    <section id="findresourcesme" ng-show="myValue">
         <div class="panel-group" id="accordion">
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" data-target="#collapse1" href="">
+                        <a data-toggle="collapse" data-parent="#accordion" href="" data-target="#collapse1">
                             RESOURCES
                         </a><span class="caret text-right"></span>
                     </h4>
                 </div>
-
                 <div id="collapse1" class="panel-collapse collapse in">
                     <div class="panel-body">
                         <div class="form-group">
@@ -47,22 +48,26 @@
                     </div>
                 </div>
             </div>
-
             <div class="panel panel-default">
                 <div class="panel-heading">
                     <h4 class="panel-title">
-                        <a data-toggle="collapse" data-parent="#accordion" data-target="#collapse2" href="">
+                        <a data-toggle="collapse" data-parent="#accordion" href="" data-target="#collapse2">
                             HUMAN SERVICES
                         </a><span class="caret"></span>
                     </h4>
                 </div>
-
-                <div id="collapse2" class="panel-collapse collapse">
+                <div id="collapse2" class="panel-collapse collapse in">
                     <div class="panel-body">
                         <div class="form-group">
+
                             <div class="checkbox checkbox-info">
                                 <label>
                                     <input type="checkbox"> DOMESTIC VIOLENCE
+                                </label>
+                            </div>
+                            <div class="checkbox checkbox-info">
+                                <label>
+                                    <input type="checkbox"> HYGIENE PRODUCTS
                                 </label>
                             </div>
                             <div class="checkbox checkbox-info">
@@ -71,22 +76,45 @@
                                 </label>
                             </div>
 
-                            <div class="checkbox checkbox-info">
-                                <label>
-                                    <input type="checkbox"> PERSONAL HYGIENE
-                                </label>
-                            </div>
+
                         </div>
                     </div>
                 </div>
             </div>
 
             <br>
+            <p><span class="cl_red">***</span> Please select any one or all above mentioned fields</p>
             <div class="text-center">
+
                 <input type="submit" class="btn btn-custom" ng-click="Update()" value="SEARCH" />
+
             </div>
         </div>
     </section>
-    {{myData}}
+    <!--Another page-->
+
+    <div class="well">
+        <h2 class="text-danger">SHELTER</h2>
+        <hr>
+        <ul>
+            <div ng-repeat="Data in myData">
+                <li>
+                    <h4 id="providername" style="font-weight: bold;">{{Data.resourceName}}</h4>
+                    <div ng-repeat="Inside in Data.details">
+                        <a href="/#/UserInfo">{{Inside.providerName}}</a>
+                        <p>Distance: {{Inside.distance}} miles</p>
+                        <p id="street">{{Inside.streetAddress}}</p>
+                        <p id="citystatezip">{{Inside.city}}, {{Inside.state}} {{Inside.zipCode}}</p>
+                        <p id="phone">{{Inside.phoneNumber}}</p>
+                        <p id="availability"><span class="badge">5</span>&nbsp;Available Beds | Check-in before: 5PM</p>
+                        <br>
+                        <p id="service_offered"><b>Service Offered:</b> AIDS/Drug Assistance Programs,Case/Care Management,Education, Employment, Food,Material Goods,Personal Enrichment, Temporary Financial Assistance, Transportation</p>
+                        <br>
+                    </div>
+                </li>
+            </div>
+        </ul>
+        <h4 class="text-center"><i class="glyphicon glyphicon-sort"><a href="#">Directions</a></i>&nbsp;&nbsp;<i class="glyphicon glyphicon-earphone"><a href="#">Contact</a></i>&nbsp;&nbsp;<i class="glyphicon glyphicon-grain"><a href="#">Eligibility</a></i></h4>
+    </div>
 </body>
 </html>

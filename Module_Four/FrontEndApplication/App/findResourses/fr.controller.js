@@ -6,7 +6,7 @@
         .controller('FindResource', FindResource);
 
     function FindResource(dataservice, logger, $scope, $location) {
-
+        $scope.myValue = true;
 
       //  getDataFromAPI();
       
@@ -19,6 +19,7 @@
         }
 
         $scope.Update = function () {
+            $scope.myValue = false;
             navigator.geolocation.getCurrentPosition(success, error);
 
             var userSelection = ["CLOTHING", "FOOD"];
