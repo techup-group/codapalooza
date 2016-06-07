@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Configuration;
 using System.Net;
 using System.Net.Http;
 using Newtonsoft.Json;
@@ -89,20 +90,19 @@ namespace TampaInnovation.GimmeServices.Business
 
         private static string CreateJsonQueryString()
         {
-            SigningKey signingKey = Utilities.GetSigningKey(PUBLIC_KEY, PRIVATE_KEY);
+            SigningKey signingKey = Utilities.GetSigningKey(_publicKey, _privateKey);
             return "{\"ts\":\"" + signingKey.TimeStamp + "\",\"key\":\"" + signingKey.PublicKey + "\",\"sig\":\"" + signingKey.Signature + "\"}";
         }
 
         private static string CreateJsonQueryStringWithZipCode(int zipCode)
         {
-            SigningKey signingKey = Utilities.GetSigningKey(PUBLIC_KEY, PRIVATE_KEY);
+            SigningKey signingKey = Utilities.GetSigningKey(_publicKey, _privateKey);
 
             return "{\"ts\": \"" + signingKey.TimeStamp + "\", \"sig\": \"" + signingKey.Signature + "\", \"key\": \"" + signingKey.PublicKey + "\", \"zip\": \"" + zipCode + "\"}";
         }
 
-
-        private const string PUBLIC_KEY = "C2C1228EEDFCAB4DC1CAECCF8361A";
-        private const string PRIVATE_KEY = "BFA429A2E243633954D9E17FB2646";
+        private static readonly string _publicKey = ConfigurationManager.AppSettings["GimmeShelter.PublicKey"];
+        private static readonly string _privateKey = ConfigurationManager.AppSettings["GimmeShelter.PrivateKey"];
 
         #endregion
     }

@@ -1,4 +1,6 @@
-﻿namespace TampaInnovation.GeoLocation
+﻿using System.Configuration;
+
+namespace TampaInnovation.GeoLocation
 {
     internal static class GoogleSettings
     {
@@ -8,7 +10,7 @@
         {
             get
             {
-                return _clientId ?? (_clientId = "AIzaSyBkxyHwfd_KmLAYlb1EX577U7BDONSlCWw");
+                return _clientId ?? (_clientId = ConfigurationManager.AppSettings["Google.Key"]);
             }
         }
     }
