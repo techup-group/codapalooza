@@ -1,0 +1,4113 @@
+[{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"ProviderServedAreaID": "135",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"ProviderServedAreaID": "127",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"ProviderServedAreaID": "126",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"ProviderServedAreaID": "113",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"ProviderServedAreaID": "96",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"ProviderServedAreaID": "95",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"ProviderServedAreaID": "29",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"ProviderServedAreaID": "16",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"ProviderServedAreaID": "11",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"ProviderServedAreaID": "2",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "185",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "157",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "147",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "140",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "125",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "94",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "93",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "59",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "48",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "6",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "173",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "162",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "159",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "156",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "118",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "92",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "81",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "75",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "71",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Homeless Prevention",
+	"ProviderServedAreaID": "13",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "165",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "154",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "141",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "132",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "117",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "79",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "77",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "64",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "42",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "14",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "163",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "122",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "119",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "115",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "114",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "61",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "39",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "27",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "24",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "18",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServedAreaID": "262",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServedAreaID": "261",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServedAreaID": "260",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServedAreaID": "259",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServedAreaID": "258",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServedAreaID": "257",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServedAreaID": "256",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServedAreaID": "255",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServedAreaID": "254",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServedAreaID": "253",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2013-09-04",
+	"DateUpdated": "2013-09-04",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Homeless Prevention)",
+	"ProviderServedAreaID": "315",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2013-09-04",
+	"DateUpdated": "2013-09-04",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Homeless Prevention)",
+	"ProviderServedAreaID": "314",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2013-09-04",
+	"DateUpdated": "2013-09-04",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Homeless Prevention)",
+	"ProviderServedAreaID": "313",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-09-04",
+	"DateUpdated": "2013-09-04",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Homeless Prevention)",
+	"ProviderServedAreaID": "312",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2013-09-04",
+	"DateUpdated": "2013-09-04",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Homeless Prevention)",
+	"ProviderServedAreaID": "311",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2013-09-04",
+	"DateUpdated": "2013-09-04",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Homeless Prevention)",
+	"ProviderServedAreaID": "310",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2013-09-04",
+	"DateUpdated": "2013-09-04",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Homeless Prevention)",
+	"ProviderServedAreaID": "309",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2013-09-04",
+	"DateUpdated": "2013-09-04",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Homeless Prevention)",
+	"ProviderServedAreaID": "308",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2013-09-04",
+	"DateUpdated": "2013-09-04",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Homeless Prevention)",
+	"ProviderServedAreaID": "307",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2013-09-04",
+	"DateUpdated": "2013-09-04",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Homeless Prevention)",
+	"ProviderServedAreaID": "306",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"ProviderServedAreaID": "179",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"ProviderServedAreaID": "176",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"ProviderServedAreaID": "170",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"ProviderServedAreaID": "151",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"ProviderServedAreaID": "107",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"ProviderServedAreaID": "86",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"ProviderServedAreaID": "76",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"ProviderServedAreaID": "69",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"ProviderServedAreaID": "67",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"ProviderServedAreaID": "25",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Agency",
+	"ProviderServedAreaID": "177",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Agency",
+	"ProviderServedAreaID": "175",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Agency",
+	"ProviderServedAreaID": "150",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Agency",
+	"ProviderServedAreaID": "136",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Agency",
+	"ProviderServedAreaID": "97",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Agency",
+	"ProviderServedAreaID": "85",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Agency",
+	"ProviderServedAreaID": "68",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Agency",
+	"ProviderServedAreaID": "60",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Agency",
+	"ProviderServedAreaID": "41",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Agency",
+	"ProviderServedAreaID": "37",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Creating a Clean and Sober Tampa Bay, Inc.",
+	"ProviderServedAreaID": "184",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Creating a Clean and Sober Tampa Bay, Inc.",
+	"ProviderServedAreaID": "124",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Creating a Clean and Sober Tampa Bay, Inc.",
+	"ProviderServedAreaID": "110",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Creating a Clean and Sober Tampa Bay, Inc.",
+	"ProviderServedAreaID": "108",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Creating a Clean and Sober Tampa Bay, Inc.",
+	"ProviderServedAreaID": "98",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Creating a Clean and Sober Tampa Bay, Inc.",
+	"ProviderServedAreaID": "40",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Creating a Clean and Sober Tampa Bay, Inc.",
+	"ProviderServedAreaID": "32",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Creating a Clean and Sober Tampa Bay, Inc.",
+	"ProviderServedAreaID": "31",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Creating a Clean and Sober Tampa Bay, Inc.",
+	"ProviderServedAreaID": "17",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Creating a Clean and Sober Tampa Bay, Inc.",
+	"ProviderServedAreaID": "1",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Ananda Counseling Center",
+	"ProviderServedAreaID": "139",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Ananda Counseling Center",
+	"ProviderServedAreaID": "47",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Ananda Counseling Center",
+	"ProviderServedAreaID": "38",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Beth-El Farm Working Ministry - Agency",
+	"ProviderServedAreaID": "12",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Catholic Charities: Family Outreach & Support Prgm",
+	"ProviderServedAreaID": "3",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Beth-El Farm Working Ministry - Referral Program",
+	"ProviderServedAreaID": "66",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "178",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "171",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "161",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "145",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "99",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "89",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "73",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "51",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "50",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"ProviderServedAreaID": "36",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2012-10-29",
+	"DateUpdated": "2012-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Housing Placement Assistance Program",
+	"ProviderServedAreaID": "294",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2012-10-29",
+	"DateUpdated": "2012-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Housing Placement Assistance Program",
+	"ProviderServedAreaID": "293",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2012-10-29",
+	"DateUpdated": "2012-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Housing Placement Assistance Program",
+	"ProviderServedAreaID": "292",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2012-10-29",
+	"DateUpdated": "2012-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Housing Placement Assistance Program",
+	"ProviderServedAreaID": "291",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2012-10-29",
+	"DateUpdated": "2012-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Housing Placement Assistance Program",
+	"ProviderServedAreaID": "290",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2012-10-29",
+	"DateUpdated": "2012-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Housing Placement Assistance Program",
+	"ProviderServedAreaID": "289",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2012-10-29",
+	"DateUpdated": "2012-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Housing Placement Assistance Program",
+	"ProviderServedAreaID": "288",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2012-10-29",
+	"DateUpdated": "2012-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Housing Placement Assistance Program",
+	"ProviderServedAreaID": "287",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2012-10-29",
+	"DateUpdated": "2012-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Housing Placement Assistance Program",
+	"ProviderServedAreaID": "286",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2012-10-29",
+	"DateUpdated": "2012-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Housing Placement Assistance Program",
+	"ProviderServedAreaID": "295",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Services",
+	"ProviderServedAreaID": "172",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Services",
+	"ProviderServedAreaID": "121",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Services",
+	"ProviderServedAreaID": "120",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Services",
+	"ProviderServedAreaID": "102",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Services",
+	"ProviderServedAreaID": "100",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Services",
+	"ProviderServedAreaID": "53",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Services",
+	"ProviderServedAreaID": "28",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Services",
+	"ProviderServedAreaID": "23",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Services",
+	"ProviderServedAreaID": "20",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Women's Resource Center of Tampa, Inc. - Services",
+	"ProviderServedAreaID": "4",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"ProviderServedAreaID": "174",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"ProviderServedAreaID": "158",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"ProviderServedAreaID": "148",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"ProviderServedAreaID": "137",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"ProviderServedAreaID": "128",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"ProviderServedAreaID": "83",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"ProviderServedAreaID": "82",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"ProviderServedAreaID": "72",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"ProviderServedAreaID": "46",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"ProviderServedAreaID": "5",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"ProviderServedAreaID": "169",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"ProviderServedAreaID": "166",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"ProviderServedAreaID": "155",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"ProviderServedAreaID": "134",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"ProviderServedAreaID": "112",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"ProviderServedAreaID": "80",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"ProviderServedAreaID": "65",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"ProviderServedAreaID": "56",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"ProviderServedAreaID": "44",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"ProviderServedAreaID": "22",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "168",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "164",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "153",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "133",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "111",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "78",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "63",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "55",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "43",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (COUNTY) Rapid Re-Housing",
+	"ProviderServedAreaID": "21",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"ProviderServedAreaID": "143",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"ProviderServedAreaID": "131",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"ProviderServedAreaID": "130",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"ProviderServedAreaID": "109",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"ProviderServedAreaID": "106",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"ProviderServedAreaID": "84",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"ProviderServedAreaID": "35",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"ProviderServedAreaID": "15",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"ProviderServedAreaID": "10",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"ProviderServedAreaID": "9",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Homeless Prevention",
+	"ProviderServedAreaID": "180",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Homeless Prevention",
+	"ProviderServedAreaID": "152",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Homeless Prevention",
+	"ProviderServedAreaID": "149",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Homeless Prevention",
+	"ProviderServedAreaID": "144",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Homeless Prevention",
+	"ProviderServedAreaID": "123",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Homeless Prevention",
+	"ProviderServedAreaID": "90",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Homeless Prevention",
+	"ProviderServedAreaID": "88",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Homeless Prevention",
+	"ProviderServedAreaID": "62",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Homeless Prevention",
+	"ProviderServedAreaID": "52",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Homeless Prevention",
+	"ProviderServedAreaID": "7",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "345",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "344",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "343",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "342",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "341",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "340",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "339",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "338",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "337",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "336",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - The Sanctuary",
+	"ProviderServedAreaID": "182",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - The Sanctuary",
+	"ProviderServedAreaID": "167",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - The Sanctuary",
+	"ProviderServedAreaID": "160",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - The Sanctuary",
+	"ProviderServedAreaID": "142",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - The Sanctuary",
+	"ProviderServedAreaID": "101",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - The Sanctuary",
+	"ProviderServedAreaID": "87",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - The Sanctuary",
+	"ProviderServedAreaID": "74",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - The Sanctuary",
+	"ProviderServedAreaID": "57",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - The Sanctuary",
+	"ProviderServedAreaID": "54",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "INACTIVE - Metropolitan Ministries - The Sanctuary",
+	"ProviderServedAreaID": "33",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/Children (APR)",
+	"ProviderServedAreaID": "216",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/Children (APR)",
+	"ProviderServedAreaID": "215",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/Children (APR)",
+	"ProviderServedAreaID": "214",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "South",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/Children (APR)",
+	"ProviderServedAreaID": "213",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/Children (APR)",
+	"ProviderServedAreaID": "212",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/Children (APR)",
+	"ProviderServedAreaID": "211",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/Children (APR)",
+	"ProviderServedAreaID": "207",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "North",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/Children (APR)",
+	"ProviderServedAreaID": "210",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/Children (APR)",
+	"ProviderServedAreaID": "209",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "East",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/Children (APR)",
+	"ProviderServedAreaID": "208",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/o Children (APR)",
+	"ProviderServedAreaID": "197",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/o Children (APR)",
+	"ProviderServedAreaID": "198",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "East",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/o Children (APR)",
+	"ProviderServedAreaID": "199",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "North",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/o Children (APR)",
+	"ProviderServedAreaID": "200",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/o Children (APR)",
+	"ProviderServedAreaID": "201",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/o Children (APR)",
+	"ProviderServedAreaID": "202",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "South",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/o Children (APR)",
+	"ProviderServedAreaID": "203",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/o Children (APR)",
+	"ProviderServedAreaID": "204",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/o Children (APR)",
+	"ProviderServedAreaID": "205",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "West",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "INACTIVE - Volunteers of America of Florida - Women's Program - Households w\/o Children (APR)",
+	"ProviderServedAreaID": "206",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-12-06",
+	"DateUpdated": "2013-12-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Mary & Martha House - Emergency Shelter Individuals",
+	"ProviderServedAreaID": "351",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-12-06",
+	"DateUpdated": "2013-12-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Mary & Martha House - Transitional Housing Families 209 (TH)",
+	"ProviderServedAreaID": "348",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-12-06",
+	"DateUpdated": "2013-12-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Mary & Martha House - Transitional Housing Individuals 209 (TH)",
+	"ProviderServedAreaID": "349",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2012-06-07",
+	"DateUpdated": "2012-06-07",
+	"ProviderCreating": "Gracepoint (MHC) - Agency*",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/ children (PSH)",
+	"ProviderServedAreaID": "220",
+	"ProviderUpdating": "Gracepoint (MHC) - Agency*"
+},
+{
+	"Area": "East",
+	"DateAdded": "2012-06-07",
+	"DateUpdated": "2012-06-07",
+	"ProviderCreating": "Gracepoint (MHC) - Agency*",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/ children (PSH)",
+	"ProviderServedAreaID": "219",
+	"ProviderUpdating": "Gracepoint (MHC) - Agency*"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2012-06-07",
+	"DateUpdated": "2012-06-07",
+	"ProviderCreating": "Gracepoint (MHC) - Agency*",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/ children (PSH)",
+	"ProviderServedAreaID": "218",
+	"ProviderUpdating": "Gracepoint (MHC) - Agency*"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2012-06-07",
+	"DateUpdated": "2012-06-07",
+	"ProviderCreating": "Gracepoint (MHC) - Agency*",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/ children (PSH)",
+	"ProviderServedAreaID": "217",
+	"ProviderUpdating": "Gracepoint (MHC) - Agency*"
+},
+{
+	"Area": "West",
+	"DateAdded": "2012-06-07",
+	"DateUpdated": "2012-06-07",
+	"ProviderCreating": "Gracepoint (MHC) - Agency*",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/ children (PSH)",
+	"ProviderServedAreaID": "231",
+	"ProviderUpdating": "Gracepoint (MHC) - Agency*"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2012-06-07",
+	"DateUpdated": "2012-06-07",
+	"ProviderCreating": "Gracepoint (MHC) - Agency*",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/ children (PSH)",
+	"ProviderServedAreaID": "229",
+	"ProviderUpdating": "Gracepoint (MHC) - Agency*"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2012-06-07",
+	"DateUpdated": "2012-06-07",
+	"ProviderCreating": "Gracepoint (MHC) - Agency*",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/ children (PSH)",
+	"ProviderServedAreaID": "227",
+	"ProviderUpdating": "Gracepoint (MHC) - Agency*"
+},
+{
+	"Area": "South",
+	"DateAdded": "2012-06-07",
+	"DateUpdated": "2012-06-07",
+	"ProviderCreating": "Gracepoint (MHC) - Agency*",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/ children (PSH)",
+	"ProviderServedAreaID": "225",
+	"ProviderUpdating": "Gracepoint (MHC) - Agency*"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2012-06-07",
+	"DateUpdated": "2012-06-07",
+	"ProviderCreating": "Gracepoint (MHC) - Agency*",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/ children (PSH)",
+	"ProviderServedAreaID": "223",
+	"ProviderUpdating": "Gracepoint (MHC) - Agency*"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2012-06-07",
+	"DateUpdated": "2012-06-07",
+	"ProviderCreating": "Gracepoint (MHC) - Agency*",
+	"Provider": "Gracepoint (MHC) - HOME 2 (APR) w\/ children (PSH)",
+	"ProviderServedAreaID": "221",
+	"ProviderUpdating": "Gracepoint (MHC) - Agency*"
+},
+{
+	"Area": "West",
+	"DateAdded": "2015-11-05",
+	"DateUpdated": "2015-11-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Educational Development",
+	"ProviderServedAreaID": "455",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2015-11-05",
+	"DateUpdated": "2015-11-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Educational Development",
+	"ProviderServedAreaID": "454",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2015-11-05",
+	"DateUpdated": "2015-11-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Educational Development",
+	"ProviderServedAreaID": "453",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2015-11-05",
+	"DateUpdated": "2015-11-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Educational Development",
+	"ProviderServedAreaID": "452",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2015-11-05",
+	"DateUpdated": "2015-11-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Educational Development",
+	"ProviderServedAreaID": "451",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2015-11-05",
+	"DateUpdated": "2015-11-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Educational Development",
+	"ProviderServedAreaID": "450",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2015-11-05",
+	"DateUpdated": "2015-11-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Educational Development",
+	"ProviderServedAreaID": "449",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2015-11-05",
+	"DateUpdated": "2015-11-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Educational Development",
+	"ProviderServedAreaID": "448",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2015-11-05",
+	"DateUpdated": "2015-11-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Educational Development",
+	"ProviderServedAreaID": "447",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2015-11-05",
+	"DateUpdated": "2015-11-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Educational Development",
+	"ProviderServedAreaID": "446",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/children (PSH)",
+	"ProviderServedAreaID": "335",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/children (PSH)",
+	"ProviderServedAreaID": "334",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/children (PSH)",
+	"ProviderServedAreaID": "333",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/children (PSH)",
+	"ProviderServedAreaID": "332",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/children (PSH)",
+	"ProviderServedAreaID": "331",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/children (PSH)",
+	"ProviderServedAreaID": "330",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/children (PSH)",
+	"ProviderServedAreaID": "329",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/children (PSH)",
+	"ProviderServedAreaID": "328",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/children (PSH)",
+	"ProviderServedAreaID": "327",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/children (PSH)",
+	"ProviderServedAreaID": "326",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServedAreaID": "268",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServedAreaID": "273",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServedAreaID": "274",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServedAreaID": "275",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServedAreaID": "270",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServedAreaID": "266",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServedAreaID": "265",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServedAreaID": "264",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServedAreaID": "263",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2012-06-18",
+	"DateUpdated": "2012-06-18",
+	"ProviderCreating": "Metropolitan Ministries - Agency",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServedAreaID": "271",
+	"ProviderUpdating": "Metropolitan Ministries - Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - Miracle Place Emergency Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "355",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - Miracle Place Emergency Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "362",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - Miracle Place Emergency Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "361",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - Miracle Place Emergency Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "360",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - Miracle Place Emergency Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "359",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - Miracle Place Emergency Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "358",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - Miracle Place Emergency Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "357",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - Miracle Place Emergency Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "356",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - Miracle Place Emergency Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "353",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - Miracle Place Emergency Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "354",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2014-05-05",
+	"DateUpdated": "2014-05-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Mary & Martha House - Metropolitan Bridge Housing (EBH)",
+	"ProviderServedAreaID": "374",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2014-05-05",
+	"DateUpdated": "2014-05-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Mary & Martha House - Metropolitan Bridge Housing w\/o Children",
+	"ProviderServedAreaID": "373",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Miracle Place - Hope Hall (EBH)",
+	"ProviderServedAreaID": "372",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Miracle Place - Hope Hall (EBH)",
+	"ProviderServedAreaID": "371",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Miracle Place - Hope Hall (EBH)",
+	"ProviderServedAreaID": "370",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Miracle Place - Hope Hall (EBH)",
+	"ProviderServedAreaID": "369",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Miracle Place - Hope Hall (EBH)",
+	"ProviderServedAreaID": "368",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Miracle Place - Hope Hall (EBH)",
+	"ProviderServedAreaID": "367",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Miracle Place - Hope Hall (EBH)",
+	"ProviderServedAreaID": "366",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Miracle Place - Hope Hall (EBH)",
+	"ProviderServedAreaID": "365",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Miracle Place - Hope Hall (EBH)",
+	"ProviderServedAreaID": "364",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2014-04-30",
+	"DateUpdated": "2014-04-30",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Miracle Place - Hope Hall (EBH)",
+	"ProviderServedAreaID": "363",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"ProviderServedAreaID": "415",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"ProviderServedAreaID": "414",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"ProviderServedAreaID": "413",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"ProviderServedAreaID": "412",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"ProviderServedAreaID": "411",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"ProviderServedAreaID": "410",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"ProviderServedAreaID": "409",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"ProviderServedAreaID": "408",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"ProviderServedAreaID": "407",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"ProviderServedAreaID": "406",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "325",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "324",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "323",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "322",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "321",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "320",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "319",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "318",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "317",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2013-10-09",
+	"DateUpdated": "2013-10-09",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - HOME 3 (APR) w\/o children (PSH)",
+	"ProviderServedAreaID": "316",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2015-12-18",
+	"DateUpdated": "2015-12-18",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "GracePoint (MHC) - HOME 3 (PSH)",
+	"ProviderServedAreaID": "467",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2015-12-18",
+	"DateUpdated": "2015-12-18",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "GracePoint (MHC) - HOME 3 (PSH)",
+	"ProviderServedAreaID": "466",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2015-12-18",
+	"DateUpdated": "2015-12-18",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "GracePoint (MHC) - HOME 3 (PSH)",
+	"ProviderServedAreaID": "475",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2015-12-18",
+	"DateUpdated": "2015-12-18",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "GracePoint (MHC) - HOME 3 (PSH)",
+	"ProviderServedAreaID": "474",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2015-12-18",
+	"DateUpdated": "2015-12-18",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "GracePoint (MHC) - HOME 3 (PSH)",
+	"ProviderServedAreaID": "473",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2015-12-18",
+	"DateUpdated": "2015-12-18",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "GracePoint (MHC) - HOME 3 (PSH)",
+	"ProviderServedAreaID": "472",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2015-12-18",
+	"DateUpdated": "2015-12-18",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "GracePoint (MHC) - HOME 3 (PSH)",
+	"ProviderServedAreaID": "471",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2015-12-18",
+	"DateUpdated": "2015-12-18",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "GracePoint (MHC) - HOME 3 (PSH)",
+	"ProviderServedAreaID": "470",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2015-12-18",
+	"DateUpdated": "2015-12-18",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "GracePoint (MHC) - HOME 3 (PSH)",
+	"ProviderServedAreaID": "469",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2015-12-18",
+	"DateUpdated": "2015-12-18",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "GracePoint (MHC) - HOME 3 (PSH)",
+	"ProviderServedAreaID": "468",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Agency*",
+	"ProviderServedAreaID": "242",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Agency*",
+	"ProviderServedAreaID": "249",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Agency*",
+	"ProviderServedAreaID": "250",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "West",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Agency*",
+	"ProviderServedAreaID": "251",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "South",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Agency*",
+	"ProviderServedAreaID": "248",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Agency*",
+	"ProviderServedAreaID": "247",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Agency*",
+	"ProviderServedAreaID": "246",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "North",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Agency*",
+	"ProviderServedAreaID": "245",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "East",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Agency*",
+	"ProviderServedAreaID": "244",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Agency*",
+	"ProviderServedAreaID": "243",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2016-01-25",
+	"DateUpdated": "2016-01-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Tampa Police Department - Criminal Justice Initiative Byrne Grant",
+	"ProviderServedAreaID": "476",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2015-07-01",
+	"DateUpdated": "2015-07-01",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Tampa Housing Authority - Criminal Justice Initiative Byrne Grant",
+	"ProviderServedAreaID": "395",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2014-09-12",
+	"DateUpdated": "2014-09-12",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Intake and Assessment Program",
+	"ProviderServedAreaID": "394",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2014-09-12",
+	"DateUpdated": "2014-09-12",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Intake and Assessment Program",
+	"ProviderServedAreaID": "393",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2014-09-12",
+	"DateUpdated": "2014-09-12",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Intake and Assessment Program",
+	"ProviderServedAreaID": "392",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2014-09-12",
+	"DateUpdated": "2014-09-12",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Intake and Assessment Program",
+	"ProviderServedAreaID": "391",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2014-09-12",
+	"DateUpdated": "2014-09-12",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Intake and Assessment Program",
+	"ProviderServedAreaID": "390",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2014-09-12",
+	"DateUpdated": "2014-09-12",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Intake and Assessment Program",
+	"ProviderServedAreaID": "389",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2014-09-12",
+	"DateUpdated": "2014-09-12",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Intake and Assessment Program",
+	"ProviderServedAreaID": "388",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2014-09-12",
+	"DateUpdated": "2014-09-12",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Intake and Assessment Program",
+	"ProviderServedAreaID": "387",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2014-09-12",
+	"DateUpdated": "2014-09-12",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Intake and Assessment Program",
+	"ProviderServedAreaID": "386",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2014-09-12",
+	"DateUpdated": "2014-09-12",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Intake and Assessment Program",
+	"ProviderServedAreaID": "385",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"ProviderServedAreaID": "425",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"ProviderServedAreaID": "424",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"ProviderServedAreaID": "423",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"ProviderServedAreaID": "422",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"ProviderServedAreaID": "421",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"ProviderServedAreaID": "420",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"ProviderServedAreaID": "419",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"ProviderServedAreaID": "418",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"ProviderServedAreaID": "417",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2015-10-02",
+	"DateUpdated": "2015-10-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"ProviderServedAreaID": "416",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2013-03-20",
+	"DateUpdated": "2013-03-20",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Rapid-Rehousing)",
+	"ProviderServedAreaID": "305",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2013-03-20",
+	"DateUpdated": "2013-03-20",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Rapid-Rehousing)",
+	"ProviderServedAreaID": "304",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2013-03-20",
+	"DateUpdated": "2013-03-20",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Rapid-Rehousing)",
+	"ProviderServedAreaID": "303",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-03-20",
+	"DateUpdated": "2013-03-20",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Rapid-Rehousing)",
+	"ProviderServedAreaID": "302",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2013-03-20",
+	"DateUpdated": "2013-03-20",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Rapid-Rehousing)",
+	"ProviderServedAreaID": "301",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2013-03-20",
+	"DateUpdated": "2013-03-20",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Rapid-Rehousing)",
+	"ProviderServedAreaID": "300",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2013-03-20",
+	"DateUpdated": "2013-03-20",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Rapid-Rehousing)",
+	"ProviderServedAreaID": "299",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2013-03-20",
+	"DateUpdated": "2013-03-20",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Rapid-Rehousing)",
+	"ProviderServedAreaID": "298",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2013-03-20",
+	"DateUpdated": "2013-03-20",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Rapid-Rehousing)",
+	"ProviderServedAreaID": "297",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2013-03-20",
+	"DateUpdated": "2013-03-20",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Metropolitan Ministries - ESG (Rapid-Rehousing)",
+	"ProviderServedAreaID": "296",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"ProviderServedAreaID": "188",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "East",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"ProviderServedAreaID": "189",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "North",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"ProviderServedAreaID": "190",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"ProviderServedAreaID": "191",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"ProviderServedAreaID": "192",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "South",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"ProviderServedAreaID": "193",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"ProviderServedAreaID": "194",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"ProviderServedAreaID": "195",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "West",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"ProviderServedAreaID": "196",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2012-06-06",
+	"DateUpdated": "2012-06-06",
+	"ProviderCreating": "Volunteers of America of Florida - Agency*",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"ProviderServedAreaID": "187",
+	"ProviderUpdating": "Volunteers of America of Florida - Agency*"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Motel Vouchers",
+	"ProviderServedAreaID": "181",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Motel Vouchers",
+	"ProviderServedAreaID": "129",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Motel Vouchers",
+	"ProviderServedAreaID": "116",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Motel Vouchers",
+	"ProviderServedAreaID": "105",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Motel Vouchers",
+	"ProviderServedAreaID": "104",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Motel Vouchers",
+	"ProviderServedAreaID": "45",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Motel Vouchers",
+	"ProviderServedAreaID": "34",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Motel Vouchers",
+	"ProviderServedAreaID": "26",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Motel Vouchers",
+	"ProviderServedAreaID": "19",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Motel Vouchers",
+	"ProviderServedAreaID": "8",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2016-05-25",
+	"DateUpdated": "2016-05-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - PHAME (PSH)",
+	"ProviderServedAreaID": "477",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2016-05-25",
+	"DateUpdated": "2016-05-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - PHAME (PSH)",
+	"ProviderServedAreaID": "478",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2016-05-25",
+	"DateUpdated": "2016-05-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - PHAME (PSH)",
+	"ProviderServedAreaID": "479",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2016-05-25",
+	"DateUpdated": "2016-05-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - PHAME (PSH)",
+	"ProviderServedAreaID": "480",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2016-05-25",
+	"DateUpdated": "2016-05-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - PHAME (PSH)",
+	"ProviderServedAreaID": "481",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2016-05-25",
+	"DateUpdated": "2016-05-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - PHAME (PSH)",
+	"ProviderServedAreaID": "482",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2016-05-25",
+	"DateUpdated": "2016-05-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - PHAME (PSH)",
+	"ProviderServedAreaID": "483",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2016-05-25",
+	"DateUpdated": "2016-05-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - PHAME (PSH)",
+	"ProviderServedAreaID": "484",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2016-05-25",
+	"DateUpdated": "2016-05-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - PHAME (PSH)",
+	"ProviderServedAreaID": "485",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2016-05-25",
+	"DateUpdated": "2016-05-25",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Gracepoint (MHC) - PHAME (PSH)",
+	"ProviderServedAreaID": "486",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Friendship Palms (APR) (PSH)",
+	"ProviderServedAreaID": "241",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Friendship Palms (APR) (PSH)",
+	"ProviderServedAreaID": "240",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Friendship Palms (APR) (PSH)",
+	"ProviderServedAreaID": "239",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "South",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Friendship Palms (APR) (PSH)",
+	"ProviderServedAreaID": "238",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Friendship Palms (APR) (PSH)",
+	"ProviderServedAreaID": "237",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "East",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Friendship Palms (APR) (PSH)",
+	"ProviderServedAreaID": "234",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Friendship Palms (APR) (PSH)",
+	"ProviderServedAreaID": "236",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Friendship Palms (APR) (PSH)",
+	"ProviderServedAreaID": "232",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "North",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Friendship Palms (APR) (PSH)",
+	"ProviderServedAreaID": "235",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2012-06-15",
+	"DateUpdated": "2012-06-15",
+	"ProviderCreating": "Project Return - Agency*",
+	"Provider": "Project Return - Friendship Palms (APR) (PSH)",
+	"ProviderServedAreaID": "233",
+	"ProviderUpdating": "Project Return - Agency*"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2015-10-29",
+	"DateUpdated": "2015-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Prevention Diversion (CDBG)",
+	"ProviderServedAreaID": "444",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2015-10-29",
+	"DateUpdated": "2015-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Prevention Diversion (CDBG)",
+	"ProviderServedAreaID": "443",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2015-10-29",
+	"DateUpdated": "2015-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Prevention Diversion (CDBG)",
+	"ProviderServedAreaID": "442",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2015-10-29",
+	"DateUpdated": "2015-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Prevention Diversion (CDBG)",
+	"ProviderServedAreaID": "441",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2015-10-29",
+	"DateUpdated": "2015-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Prevention Diversion (CDBG)",
+	"ProviderServedAreaID": "440",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2015-10-29",
+	"DateUpdated": "2015-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Prevention Diversion (CDBG)",
+	"ProviderServedAreaID": "439",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2015-10-29",
+	"DateUpdated": "2015-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Prevention Diversion (CDBG)",
+	"ProviderServedAreaID": "438",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2015-10-29",
+	"DateUpdated": "2015-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Prevention Diversion (CDBG)",
+	"ProviderServedAreaID": "437",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2015-10-29",
+	"DateUpdated": "2015-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Prevention Diversion (CDBG)",
+	"ProviderServedAreaID": "436",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2015-10-29",
+	"DateUpdated": "2015-10-29",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Prevention Diversion (CDBG)",
+	"ProviderServedAreaID": "445",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServedAreaID": "186",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServedAreaID": "183",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServedAreaID": "146",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServedAreaID": "138",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServedAreaID": "103",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "South",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServedAreaID": "91",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServedAreaID": "70",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "North",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServedAreaID": "58",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServedAreaID": "49",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "East",
+	"DateAdded": "2010-08-04",
+	"DateUpdated": "2010-08-04",
+	"ProviderCreating": "Bowman Systems, LLC",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServedAreaID": "30",
+	"ProviderUpdating": "Bowman Systems, LLC"
+},
+{
+	"Area": "West",
+	"DateAdded": "2012-08-08",
+	"DateUpdated": "2012-08-08",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment Services Program",
+	"ProviderServedAreaID": "285",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2012-08-08",
+	"DateUpdated": "2012-08-08",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment Services Program",
+	"ProviderServedAreaID": "284",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2012-08-08",
+	"DateUpdated": "2012-08-08",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment Services Program",
+	"ProviderServedAreaID": "283",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2012-08-08",
+	"DateUpdated": "2012-08-08",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment Services Program",
+	"ProviderServedAreaID": "282",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2012-08-08",
+	"DateUpdated": "2012-08-08",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment Services Program",
+	"ProviderServedAreaID": "281",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2012-08-08",
+	"DateUpdated": "2012-08-08",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment Services Program",
+	"ProviderServedAreaID": "280",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2012-08-08",
+	"DateUpdated": "2012-08-08",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment Services Program",
+	"ProviderServedAreaID": "279",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2012-08-08",
+	"DateUpdated": "2012-08-08",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment Services Program",
+	"ProviderServedAreaID": "278",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2012-08-08",
+	"DateUpdated": "2012-08-08",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment Services Program",
+	"ProviderServedAreaID": "277",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2012-08-08",
+	"DateUpdated": "2012-08-08",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment Services Program",
+	"ProviderServedAreaID": "276",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2015-08-05",
+	"DateUpdated": "2015-08-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"ProviderServedAreaID": "405",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2015-08-05",
+	"DateUpdated": "2015-08-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"ProviderServedAreaID": "404",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2015-08-05",
+	"DateUpdated": "2015-08-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"ProviderServedAreaID": "403",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2015-08-05",
+	"DateUpdated": "2015-08-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"ProviderServedAreaID": "402",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2015-08-05",
+	"DateUpdated": "2015-08-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"ProviderServedAreaID": "401",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2015-08-05",
+	"DateUpdated": "2015-08-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"ProviderServedAreaID": "400",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2015-08-05",
+	"DateUpdated": "2015-08-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"ProviderServedAreaID": "399",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2015-08-05",
+	"DateUpdated": "2015-08-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"ProviderServedAreaID": "398",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2015-08-05",
+	"DateUpdated": "2015-08-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"ProviderServedAreaID": "397",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2015-08-05",
+	"DateUpdated": "2015-08-05",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"ProviderServedAreaID": "396",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-12-06",
+	"DateUpdated": "2013-12-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Mary & Martha House, Inc. - Agency",
+	"ProviderServedAreaID": "352",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-12-06",
+	"DateUpdated": "2013-12-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Mary & Martha House - Transitional Housing Individuals 1603 (TH)",
+	"ProviderServedAreaID": "347",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-12-02",
+	"DateUpdated": "2013-12-02",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Mary & Martha House - Transitional Housing Families 1603 (TH)",
+	"ProviderServedAreaID": "346",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2013-12-06",
+	"DateUpdated": "2013-12-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "INACTIVE - Mary & Martha House - Emergency Shelter Family (HDS)",
+	"ProviderServedAreaID": "350",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "West",
+	"DateAdded": "2014-05-06",
+	"DateUpdated": "2014-05-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Up & Out Project (RRH)",
+	"ProviderServedAreaID": "384",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthWest",
+	"DateAdded": "2014-05-06",
+	"DateUpdated": "2014-05-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Up & Out Project (RRH)",
+	"ProviderServedAreaID": "383",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "SouthEast",
+	"DateAdded": "2014-05-06",
+	"DateUpdated": "2014-05-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Up & Out Project (RRH)",
+	"ProviderServedAreaID": "382",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "South",
+	"DateAdded": "2014-05-06",
+	"DateUpdated": "2014-05-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Up & Out Project (RRH)",
+	"ProviderServedAreaID": "381",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthWest",
+	"DateAdded": "2014-05-06",
+	"DateUpdated": "2014-05-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Up & Out Project (RRH)",
+	"ProviderServedAreaID": "380",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "NorthEast",
+	"DateAdded": "2014-05-06",
+	"DateUpdated": "2014-05-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Up & Out Project (RRH)",
+	"ProviderServedAreaID": "379",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "North",
+	"DateAdded": "2014-05-06",
+	"DateUpdated": "2014-05-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Up & Out Project (RRH)",
+	"ProviderServedAreaID": "378",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "East",
+	"DateAdded": "2014-05-06",
+	"DateUpdated": "2014-05-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Up & Out Project (RRH)",
+	"ProviderServedAreaID": "377",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Downtown",
+	"DateAdded": "2014-05-06",
+	"DateUpdated": "2014-05-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Up & Out Project (RRH)",
+	"ProviderServedAreaID": "376",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+},
+{
+	"Area": "Central",
+	"DateAdded": "2014-05-06",
+	"DateUpdated": "2014-05-06",
+	"ProviderCreating": "Tampa Hillsborough Homeless Initiative - Lead Agency",
+	"Provider": "Metropolitan Ministries - Up & Out Project (RRH)",
+	"ProviderServedAreaID": "375",
+	"ProviderUpdating": "Tampa Hillsborough Homeless Initiative - Lead Agency"
+}]

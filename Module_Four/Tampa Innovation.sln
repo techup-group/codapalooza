@@ -1,0 +1,98 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.0 - Model", "1.0 - Model", "{D3D65D51-2FD2-4BE7-91F8-B29254F95FEE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.0 - Data", "2.0 - Data", "{43319275-F5D6-43A4-8937-42E3D0E26302}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.0 - Business", "3.0 - Business", "{02A2A3DC-D5E5-425C-95A8-CC71D2003121}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.0 - Web App", "4.0 - Web App", "{0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{617D13C1-8B8D-41E7-9956-912D1BF36CB1}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		SampleData\Addresses.txt = SampleData\Addresses.txt
+		SampleData\AreasServed.txt = SampleData\AreasServed.txt
+		SampleData\BedUnitInventory.txt = SampleData\BedUnitInventory.txt
+		SampleData\ContactNumbers.txt = SampleData\ContactNumbers.txt
+		SampleData\Geography.txt = SampleData\Geography.txt
+		SampleData\Providers.txt = SampleData\Providers.txt
+		README.md = README.md
+		SampleData\ServiceGeography.txt = SampleData\ServiceGeography.txt
+		SampleData\Services.txt = SampleData\Services.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.0 - Web Services", "5.0 - Web Services", "{8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.GimmeServices", "TampaInnovation.GimmeServices\TampaInnovation.GimmeServices.csproj", "{9ABD8288-9B31-4488-870B-5152A66A5D90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.WebServices", "TampaInnovation.WebServices\TampaInnovation.WebServices.csproj", "{8167A150-D5D2-4332-981A-9A077C7DD730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.Models", "TampaInnovation.Models\TampaInnovation.Models.csproj", "{1DF12886-048E-4541-9956-446CAAEE5289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.Business", "TampaInnovation.Business\TampaInnovation.Business.csproj", "{463CDE13-83FC-4978-A733-1A0CE42AE6BD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrontEndApplication", "FrontEndApplication\FrontEndApplication.csproj", "{4DBC7646-77B4-4CB3-B159-1FD544B493E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.TempIntegration", "TampaInnovation.TempIntegration\TampaInnovation.TempIntegration.csproj", "{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.DataAccess", "TampaInnovation.DataAccess\TampaInnovation.DataAccess.csproj", "{392C4273-2E50-4EE0-B939-E829DA2E9DE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TampaInnovation.GeoLocation", "TampaInnovation.GeoLocation\TampaInnovation.GeoLocation.csproj", "{CF665171-0101-4D8B-9A90-A01FD70A2605}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ABD8288-9B31-4488-870B-5152A66A5D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ABD8288-9B31-4488-870B-5152A66A5D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ABD8288-9B31-4488-870B-5152A66A5D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ABD8288-9B31-4488-870B-5152A66A5D90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8167A150-D5D2-4332-981A-9A077C7DD730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8167A150-D5D2-4332-981A-9A077C7DD730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8167A150-D5D2-4332-981A-9A077C7DD730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8167A150-D5D2-4332-981A-9A077C7DD730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DF12886-048E-4541-9956-446CAAEE5289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DF12886-048E-4541-9956-446CAAEE5289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DF12886-048E-4541-9956-446CAAEE5289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DF12886-048E-4541-9956-446CAAEE5289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{463CDE13-83FC-4978-A733-1A0CE42AE6BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463CDE13-83FC-4978-A733-1A0CE42AE6BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463CDE13-83FC-4978-A733-1A0CE42AE6BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463CDE13-83FC-4978-A733-1A0CE42AE6BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBC7646-77B4-4CB3-B159-1FD544B493E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBC7646-77B4-4CB3-B159-1FD544B493E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBC7646-77B4-4CB3-B159-1FD544B493E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBC7646-77B4-4CB3-B159-1FD544B493E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF665171-0101-4D8B-9A90-A01FD70A2605}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{9ABD8288-9B31-4488-870B-5152A66A5D90} = {43319275-F5D6-43A4-8937-42E3D0E26302}
+		{8167A150-D5D2-4332-981A-9A077C7DD730} = {8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}
+		{1DF12886-048E-4541-9956-446CAAEE5289} = {D3D65D51-2FD2-4BE7-91F8-B29254F95FEE}
+		{463CDE13-83FC-4978-A733-1A0CE42AE6BD} = {02A2A3DC-D5E5-425C-95A8-CC71D2003121}
+		{4DBC7646-77B4-4CB3-B159-1FD544B493E9} = {0C3027CD-330D-4269-9C7C-DB9B47BBCEC6}
+		{9863C1BE-BF5C-4FFD-BF0E-F4B3B70B133F} = {8C68A63E-EBF1-48CE-99CA-5F3C4E866C2F}
+		{392C4273-2E50-4EE0-B939-E829DA2E9DE5} = {43319275-F5D6-43A4-8937-42E3D0E26302}
+		{CF665171-0101-4D8B-9A90-A01FD70A2605} = {43319275-F5D6-43A4-8937-42E3D0E26302}
+	EndGlobalSection
+EndGlobal

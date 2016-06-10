@@ -1,0 +1,873 @@
+[{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Crisis Center of Tampa Bay, Inc. - Agency",
+	"ProviderServiceCodeID": "1018",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "592",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "918",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "921",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "1402",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "1552",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "1591",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "1625",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "1823",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "1842",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "2152",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "2232",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "2320",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "2428",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "2577",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "2584",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "2744",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "3136",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Agency*",
+	"ProviderServiceCodeID": "3168",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "98",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "863",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "1741",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "2849",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "3035",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "3109",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "4380",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "4381",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "4382",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "4383",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"ProviderServiceCodeID": "4385",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServiceCodeID": "3912",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServiceCodeID": "3913",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServiceCodeID": "3914",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServiceCodeID": "3915",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServiceCodeID": "3916",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Agency",
+	"ProviderServiceCodeID": "3917",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Project Return - Agency*",
+	"ProviderServiceCodeID": "1730",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Project Return - Agency*",
+	"ProviderServiceCodeID": "2282",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Project Return - Agency*",
+	"ProviderServiceCodeID": "2411",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Project Return - Agency*",
+	"ProviderServiceCodeID": "2498",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "134",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "204",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "293",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "361",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "436",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "578",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "845",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "876",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "1138",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "1438",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "1584",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "1618",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "1623",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "1628",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "1773",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "1911",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "2021",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "2081",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "2165",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "2378",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "2903",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "3059",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "3925",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "3926",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "3927",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "3928",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "3929",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Outreach & Prevention Services",
+	"ProviderServiceCodeID": "3930",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U\u00ae Residential Services",
+	"ProviderServiceCodeID": "3070",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "59",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "161",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "223",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "822",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "847",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "985",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "1156",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "1161",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "1392",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "1437",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "1517",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "1635",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "1738",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "1918",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "2052",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "2073",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "2097",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "2134",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "2565",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "2761",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "2930",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "3037",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "3931",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "3932",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "3933",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "3934",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "3935",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"ProviderServiceCodeID": "3936",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+}]

@@ -1,0 +1,448 @@
+[{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Gracepoint (MHC) - Housing First Team",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Tampa Crossroads - FHVRP - SSVF",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE Bay Area Legal Services - HPRP - (CITY) Rapid Re-Housing",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "New Beginnings of Tampa - HCHV\/EH Contract Beds (ES)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Spiritual Development",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - GracePoint (MHC) - Safe Place (APR)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (STATE) Rapid Re-Housing",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "River of Grace - Agency",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Gracepoint (MHC) - Hope Program (APR)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Gracepoint (MHC) - Samaritan Leasing Project (APR)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Alpha House - Agency*",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "ACTS - 133rd St. (PSH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Catholic Charities - Mercy House (TH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - ACTS - SSL - Households w\/Children (APR)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "The FALLS - ELI (LINK) (PH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Employment & Access Labs",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "ACTS - 131st (PSH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Gracepoint (MHC) - The Shop (APR)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Tampa Crossroads - SSVF - Rapid Rehousing III (CLOSED)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Bay Area Legal Services - HPRP - (CITY) Homeless Prevention",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Homeless Coalition of Hillsborough County - Challenge Grant",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Volunteers of America of Florida - Veteran's Project (GPD) (TH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Holiday Assistance Program",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE Metropolitan Ministries - HPRP - (CITY) Rapid Re-Housing",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "City of Tampa - HOME TBRA (RRH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Adult Rehabilitation Center",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Positive SPIN - EFSP",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Tampa Crossroads - Eco Oaks (PSH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "New Beginnings of Tampa, Inc. - Emergency Shelter (ES)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Metropolitan Ministries - Scattered Site",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Catholic Charities - HOPWA - Households w\/o Children (PSH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Tampa Family Health Center - Medical Mobile Van",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Community Meal Site Partners",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Eckerd - Children's Home Society EFSP",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Tampa Crossroads - PEARL",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services EFSP",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Family Support Services",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Salvation Army - Human Trafficking (ES)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Tampa Crossroads - HPRP - (COUNTY) Rapid Re-Housing (CLOSED)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - ACTS (Hernando) - VHPD - Homeless Prevention",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Crisis Center - HPRP - (City) Homeless Prevention",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE Women's Resource Center of Tampa, Inc. - HPRP - (CITY) Rapid Re-Housing",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Hillsborough County Sheriff's Office - Re-Entry Project",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Metropolitan Ministries - Uplift U Individuals",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Children's Home Inc - Kinship Care EFSP",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Metropolitan Ministries - Health and Wellness",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Children's Board of Hillsborough County - Agency",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "ACTS - MLK @ 24th (PSH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - ACTS (Polk) - VHPD - Homeless Prevention",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Metropolitan Ministries - HEC",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Children's Home Inc - Parents as Partners EFSP",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Ybor Youth Clinic",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE - Tampa Crossroads - SSVF - Homeless Prevention (CLOSED)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Gracepoint (MHC) - Grace Manor (PSH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "INACTIVE HCHC - HPRP - (STATE) Rapid Re-Housing",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+},
+{
+	"City": "Tampa",
+	"County": "Hillsborough",
+	"Provider": "Catholic Charities - Voucher Program (PSH)",
+	"State": "FL",
+	"StateName": "Florida",
+	"ZipCode": "33607"
+}]

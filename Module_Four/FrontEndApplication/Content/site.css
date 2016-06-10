@@ -1,0 +1,519 @@
+﻿/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    /* Margin top by header height */
+    margin-top: 60px;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+
+.footer {
+    text-align: center;
+    height: 60px;
+    line-height: 60px;
+    vertical-align: middle;
+}
+
+.container-fluid .text-muted {
+    margin: 20px 0;
+}
+
+code {
+    font-size: 80%;
+}
+
+.section-header {
+     color: #1c84c6;
+    font-size: 1.3em;
+    font-weight: bold;
+}
+
+.bordered-section {
+    border: solid gray 1px;
+    padding: 2px;
+}
+
+.user-menu {
+    margin-right: 20px;
+}
+
+.hours-spinner {
+    width: 80px;
+}
+
+.hours-date {
+    width: 170px;
+}
+
+.error-message {
+    color: #880000;
+    font-weight: bold;
+    font-size: 14pt;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.label-cell {
+    vertical-align: middle;
+    line-height: 35px;
+}
+
+
+
+/*#endregion tables*/
+
+/*#region Splash */
+#splash-page {
+    z-index: 99999 !important;
+}
+
+    #splash-page .bar {
+        width: 100%;
+    }
+
+.page-splash {
+    z-index: 99999 !important;
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #333;
+    opacity: .9;
+    pointer-events: auto;
+    -webkit-backface-visibility: hidden;
+    -moz-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    -o-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transition: opacity 0.3s linear;
+    -moz-transition: opacity 0.3s linear;
+    -o-transition: opacity 0.3s linear;
+    transition: opacity 0.3s linear;
+}
+
+.page-splash-message {
+    text-align: center;
+    margin: 20% auto 0 auto;
+    font-size: 400%;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    -webkit-text-shadow: 2px 2px #000000;
+    text-shadow: 2px 2px #000000;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.15);
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #F58A00;
+    padding: 0;
+}
+
+    .page-splash-message.page-splash-message-subtle {
+        margin: 30% auto 0 auto;
+        font-size: 200%;
+    }
+
+.flag-haschanges {
+    position: fixed !important;
+    display: inline;
+}
+
+.fa-asterisk.fa-asterisk-large {
+    font-size: 180%;
+    vertical-align: middle;
+    color: #F58A00;
+}
+
+.fa-asterisk.fa-asterisk-alert {
+    color: #F58A00;
+}
+
+.fa-asterisk-inline {
+    padding: 0 4px 0 0;
+}
+
+
+.progress,
+.page-progress-bar {
+    margin: 30px 10% !important;
+}
+
+.ngplus-overlay-background {
+    top: 0px;
+    left: 0px;
+    padding-left: 100px;
+    position: absolute;
+    z-index: 10000;
+    height: 100%;
+    width: 100%;
+    background-color: #808080;
+    opacity: 0.2;
+}
+
+.ngplus-overlay-content {
+    position: absolute;
+    /*border: 1px solid #000;*/
+    /*background-color: #fff;*/
+    font-weight: bold;
+    height: 100px;
+    width: 300px;
+    height: 15em;
+    width: 20em;
+    z-index: 10000;
+    text-align: center;
+}
+
+.page-spinner-message {
+    text-align: center;
+    font-size: 400%;
+    font-family: "Segoe UI", Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    -webkit-text-shadow: 2px 2px #000000;
+    text-shadow: 2px 2px #000000;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.15);
+    text-transform: uppercase;
+    text-decoration: none;
+    color: #F58A00;
+    padding: 0;
+}
+
+    .page-spinner-message.page-spinner-message-subtle {
+        margin: 30% auto 0 auto;
+        font-size: 200%;
+    }
+
+.overlay-message {
+    font-size: 200%;
+}
+
+.spinner {
+    margin: 20% auto 0 auto;
+    left: auto;
+    top: auto !important;
+}
+/*#endregion*/
+
+/*#region wrapper for angular ng-include and ng-view animations*/
+.view-container {
+    position: relative;
+    overflow: hidden;
+}
+/*#endregion */
+
+/*#region Angular ng-include, ng-view, ng-repeat shuffle animations*/
+
+.shuffle-animation.ng-enter,
+.shuffle-animation.ng-leave {
+    position: relative;
+}
+
+.shuffle-animation.ng-enter {
+    -moz-transition: ease-out all 0.3s 0.4s;
+    -o-transition: ease-out all 0.3s 0.4s;
+    -webkit-transition: ease-out all 0.3s 0.4s;
+    transition: ease-out all 0.3s 0.4s;
+    left: 2em;
+    opacity: 0;
+}
+
+    .shuffle-animation.ng-enter.ng-enter-active {
+        left: 0;
+        opacity: 1;
+    }
+
+.shuffle-animation.ng-leave {
+    -moz-transition: 0.3s ease-out all;
+    -o-transition: 0.3s ease-out all;
+    -webkit-transition: 0.3s ease-out all;
+    transition: 0.3s ease-out all;
+    left: 0;
+    opacity: 1;
+}
+
+    .shuffle-animation.ng-leave.ng-leave-active {
+        left: 2em;
+        opacity: 0;
+    }
+/*#endregion*/
+
+/*#region Angular ng-include, ng-view, ng-repeat fader animation */
+.fader-animation.ng-enter,
+.fader-animation.ng-leave,
+.fader-animation.ng-move {
+    position: relative;
+}
+
+.fader-animation.ng-enter,
+.fader-animation.ng-leave {
+    -webkit-transition: cubic-bezier(0.250, 0.460, 0.450, 0.940) all 0.5s;
+    -moz-transition: cubic-bezier(0.250, 0.460, 0.450, 0.940) all 0.5s;
+    -o-transition: cubic-bezier(0.250, 0.460, 0.450, 0.940) all 0.5s;
+    transition: cubic-bezier(0.250, 0.460, 0.450, 0.940) all 0.5s;
+    opacity: 1;
+}
+
+    .fader-animation.ng-enter,
+    .fader-animation.ng-leave.ng-leave-active {
+        opacity: 0;
+    }
+
+        .fader-animation.ng-enter.ng-enter-active {
+            opacity: 1;
+        }
+
+.fader-animation.ng-move {
+    opacity: 0.5;
+}
+
+    .fader-animation.ng-move.ng-move-active {
+        opacity: 1;
+    }
+
+/*#endregion*/
+
+/*#region Angular ng-show dissolve animation */
+.dissolve-animation.ng-hide-remove,
+.dissolve-animation.ng-hide-add {
+    position: fixed !important;
+    display: inline !important;
+    -webkit-transition: 0.5s linear all;
+    -moz-transition: 0.5s linear all;
+    -o-transition: 0.5s linear all;
+    transition: 0.5s linear all;
+}
+
+    .dissolve-animation.ng-hide-remove.ng-hide-remove-active,
+    .dissolve-animation.ng-hide-add {
+        opacity: 1;
+    }
+
+        .dissolve-animation.ng-hide-add.ng-hide-add-active,
+        .dissolve-animation.ng-hide-remove {
+            opacity: 0;
+        }
+/*#endregion */
+
+/*#region toastr */
+#toast-container.toast-top-full-width > div, #toast-container.toast-bottom-full-width > div {
+    margin: 4px auto;
+}
+/*#endregion */
+
+/*#region Responsive */
+
+@media (max-width: 979px) {
+    .sidebar-filler {
+        width: 200px;
+    }
+
+    .nav-collapse {
+        clear: none;
+    }
+
+        .nav-collapse .nav > li {
+            float: left;
+        }
+
+    .navbar .btn-navbar {
+        display: none;
+    }
+
+    .nav-collapse,
+    .nav-collapse.collapse {
+        height: inherit;
+        overflow: inherit;
+    }
+
+    .page-splash-message {
+        font-size: 300%;
+    }
+
+    .btn-group.pull-right {
+        float: none !important;
+        display: block;
+    }
+}
+
+@media (min-width: 768px) {
+    .sidebar .sidebar-inner {
+        display: block !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .sidebar-filler {
+        display: none;
+    }
+
+    .nav-collapse {
+        clear: both;
+    }
+
+        .nav-collapse .nav > li {
+            float: none;
+        }
+
+    .navbar .btn-navbar {
+        display: block;
+    }
+
+    .nav-collapse,
+    .nav-collapse.collapse {
+        height: 0;
+        overflow: hidden;
+    }
+
+    .page-splash-message {
+        font-size: 200%;
+        margin: 40% auto 0 auto;
+    }
+
+        .page-splash-message.page-splash-message-subtle {
+            font-size: 150%;
+        }
+
+    .sidebar .sidebar-inner {
+        height: inherit;
+    }
+}
+
+/*@media (max-width: 480px) {
+    input.form-control, select.form-control, textarea.form-control {
+        width: 70%;
+    }
+}*/
+
+@media (max-width: 320px) {
+    .today-datas li {
+        padding: 1em .5em;
+        line-height: 1em;
+    }
+
+        .today-datas li i {
+            font-size: 2em;
+        }
+
+        .today-datas li .datas-text span {
+            font-size: 1em;
+        }
+
+    .btn {
+        margin: .2em;
+        width: 7em;
+    }
+
+    .btn-group > .btn {
+        display: block;
+        width: 7em;
+    }
+
+    .btn-group.pull-right {
+        margin: .2em 0;
+    }
+
+    input,
+    select {
+        width: 85% !important;
+    }
+
+    textarea {
+        width: 80%;
+    }
+
+    .img-thumbnail.user-pic {
+        width: 5em;
+    }
+
+    .user .user-details {
+        margin-left: 7em;
+        margin-right: .5em;
+    }
+
+    h3 {
+        font-size: 1.5em !important;
+        line-height: 1.2em !important;
+    }
+   
+
+    .grid {
+    width: 500px;
+    height: 400px;
+    }
+
+    .deliconbutton {
+        width: 24px;
+        border: 0;
+        height: 24px;
+        /*background-image: url("/Content/images/icons/24x24/trash.png");*/
+    }
+    .listDefault{
+    width:100%;
+    height:900px;
+    font-size:12px;
+    }
+    .gridStyle {
+    border: 1px solid #d4d4d4;
+    width: 100%;
+    height: 1400px;
+    }
+
+    .ibox-title {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #ffffff;
+    border-color: #e7eaec;
+    border-image: none;
+    border-style: solid solid none;
+    border-width: 4px 0px 0;
+    color: inherit;
+    margin-bottom: 0;
+    padding: 14px 15px 7px;
+    min-height: 48px;
+}
+
+.ibox-content {
+    background-color: #ffffff;
+    color: inherit;
+    padding: 15px 20px 20px 20px;
+    border-color: #e7eaec;
+    border-image: none;
+    border-style: solid solid none;
+    border-width: 1px 0px;
+}
+.ibox {
+    clear: both;
+    margin-bottom: 25px;
+    margin-top: 0;
+    padding: 0;
+}
+.btn {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: 0;
+  font-size: 14px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: none;
+  border:   transparent;
+  border-radius: 0px;
+}
+
+}
+
+/*#endregion */

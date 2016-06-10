@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Resources for you - Home</title>
+    <link href="../../Content/bootstrap-theme.css" rel="stylesheet" />
+    <link href="../../Content/bootstrap.css" rel="stylesheet" />
+    <script src="../../scripts/bootstrap.js"></script>
+    <link href="../../Content/app.css" rel="stylesheet" />
+
+</head>
+
+<body data-spy="scroll" data-target=".navbar">
+    <section ng-hide="isThankYou">
+        <form>
+            <div class="form-group">
+                <label for="yourFirstName" class="control-label">First Name</label>
+                <input type="text" class="form-control" id="yourFirstName" placeholder="First name" ng-model="firstName">
+            </div>
+            <div class="form-group">
+                <label for="yourLastName" class="control-label">Last Name</label>
+                <input type="text" class="form-control" id="yourLastName" placeholder="Last name" ng-model="lastName">
+            </div>
+            <div class="form-group">
+                <label for="yourPhone" class="control-label">Phone</label>
+                <input type="text" class="form-control" id="yourPhone" placeholder="(XXX)XXX-XXXX" ng-model="phone">
+            </div>
+            <div class="form-group">
+                <label for="yourEmail" class="control-label">Email address</label>
+                <input type="email" class="form-control" id="yourEmail" placeholder="Your Email Address" ng-model="email">
+            </div>
+            <div class="radio">
+                <label>
+                    <input type="radio" name="optionsStatus" id="optionsRadios1" value="single" ng-model="marriableStatus"> Single
+                </label>
+                <div class="radio">
+                    <label>
+                        <input type="radio" name="optionsGender" class="disabled" value="Male" ng-model="gender" ng-disabled="marriableStatus != 'single'"> Male
+                    </label>
+                </div>
+                <div class="radio">
+                    <label>
+                        <input type="radio" name="optionsGender" value="Female" ng-model="gender" ng-disabled="marriableStatus != 'single'"> Female
+                    </label>
+                </div>
+            </div>
+            <div class="radio">
+                <label>
+                    <input type="radio" name="optionsStatus" id="optionsRadios2" value="married" ng-model="marriableStatus"> Married
+                </label>
+            </div>
+            <div class="radio">
+                <label>
+                    <input type="radio" name="optionsStatus" id="optionsRadios3" value="has partner" ng-model="marriableStatus"> Partnership
+                </label>
+            </div>
+            <div class="form-group">
+                <label for="sel1">How many children under 18?:</label>
+                <select class="form-control" id="sel1" ng-model="childrenCount">
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5+</option>
+
+                </select>
+            </div>
+
+
+            <button type="submit" class="btn btn-lg btn-block btn-custom" ng-click="submit()">Submit</button>
+        </form>
+    </section>
+
+    <section ng-show="isThankYou">
+        <div class="row">
+            <div class="well">
+                <div class="text-center">
+                    <h3>Thank you!</h3>
+                    <br>
+                </div>
+                <p>Your information has been submitted to&nbsp;<span id="providername">Catholic Charities</span>.</p>
+                <br>
+                <p>Arrive by&nbsp;<span id="timearrive"><strong class="text-danger">5PM</strong></span>&nbsp; to keep reservation</p>
+                <br>
+                <h5 id="providerlocation"><strong>Catholic Charities - Mercy Apartments</strong></h5>
+                <br>
+                <a href="#">Get Directions</a>
+                <div>
+                    <br>
+                    <p id="streetname">10049 N Florida Avenue</p>
+                    <p id="citystatezip">Tampa,FL 33612</p>
+                    <p>Phone: <span id="phone">813-375-3933</span></p>
+                    <p>Hours: <span id="timeopen">8:00 AM - 8:00 PM</span></p>
+                </div>
+
+            </div>
+            <div class="text-center">
+                <button type="submit" class="btn btn-lg btn-custom btn-block" ng-click="done()">DONE</button>
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>
