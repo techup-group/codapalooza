@@ -86,13 +86,12 @@ Incident Monitoring Service – polls/queries various data sources periodically 
 Incident Management Application – subscribes to new events for each client of the agency.  When a new event is received, it provides actionable information across GOV & NON GOV agencies to the case manager and notifications to  homelessness and mental health liaisons, law enforcement, etc... .
 App updates HMIS system; notifies case managers, select law enforcement, and others in accordance with their agency's policy and the client's individual goals.
 
-
-
-
-
-
-
-
-
-
-
+**Module #10** Street Medicine
+Tampa Bay Street Medicine exists to provide direct access care to houseless populations in Hillsborough County area by bringing services directly to the patients we serve. We essentially "make housecalls to the homeless." In order to facilitate these services, we would like development towards a streamlined app that provides:
+* GPS tracking of care-givers, accessible from any smart phone running iOS or Droid in order to increase safety and awareness of street teams in the field.
+* Encounter tracking for our clients, including name, aliases, place of birth, date of birth (or approximate age), gender, race, and other pertinent identification information and any services rendered to the client during our street encounter.
+* HIPAA compliance for applicable data (in some ways this is a "mini-EMR")
+* Possible integration with PracticeFusion (our primary EMR service and what runs the Well Clinic each month)
+* Storage and retention of Advance Directives made by our houseless clients for use during hospital visits. This could include DNR forms.
+* Inter-operability with county data to provide better targeting and awareness for our agency and other collaborative agencies, taking into account HIPAA and patient confidentiality requirements.
+For more information, contact Jonathan Nilson <nilson@health.usf.edu>
