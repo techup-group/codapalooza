@@ -1,0 +1,129 @@
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    /* Margin top bottom by header/footer height */
+    margin-bottom: 5px;
+    margin-top: 60px;
+    background-image: url("light_toast.png");
+    background-repeat: repeat;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 50px;
+    margin-top: 20px;
+    background-color: #f5f5f5;
+}
+
+/* Template page CSS
+/* -------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  /* padding: 0px 15px 0; */
+}
+.row {
+  padding-bottom: 5px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+code {
+  font-size: 80%;
+}
+
+/* Custom Padding and properties */
+/* -------------------------------------------------- */
+.table > tbody > tr > td > .alert {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    margin-bottom: 0px;
+}
+.table > tbody > tr > td > .glyphicon {
+    margin-right: 10px;
+}
+.well > .panel {
+    margin-bottom: 0px;
+}
+.navbar-nav > li {
+    padding-left: 5px;
+}
+.page-header {
+	border-bottom: 1px solid #C0C0C0;
+}
+.panel-footer {
+	text-align: center;
+	min-height: 5em;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+.fit-width {
+    width: 100%
+}
+.col-md-2 {
+	padding-left: 85px;
+	padding-top: 3px;
+}
+.glyphicon {
+	padding-right: 7px;
+}
+.row > * > .alert {
+	padding: 7px;
+	margin-bottom: 0px;
+}
+hr {
+	margin-top: 3px;
+	margin-bottom: 3px;
+}
+.btn-group-vertical > .btn, .btn-group > .btn {
+	position: relative;
+	float: none !important
+}
+.colspacer {
+	padding-top: 15px
+}
+
+.panel-heading {
+  padding-bottom: 20px;
+  background-color: #737575 !important;
+}
+
+/* Text box CSS. Copied from Bootstrap 
+.better-control {
+	width: 50%;
+	height: 34px;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	margin-right: 5px;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+	box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+	-webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+	-o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+	transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+} */
+.better-control {
+	display: initial !important;
+	width: 50% !important;
+	margin-right: 5px;
+}
+.footer-well {
+	margin-bottom: 75px;
+}
+
+}

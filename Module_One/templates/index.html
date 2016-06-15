@@ -1,0 +1,184 @@
+<!-- This is the template for the index page, containing the data to be
+     sent to the invoice. Fields are defined in html.py -->
+{% extends "layout.html" %}
+{% block body %}
+
+<script src="http://maps.google.com/maps/api/js"></script>
+
+<!-- Get coordinates and generate Google map -->
+<script>
+  x = navigator.geolocation;
+  x.getCurrentPosition(success, failure);
+  function success(position)
+  {
+    var lat = position.coords.latitude;
+    var long = position.coords.longitude;
+  	if($('#survey_location').val()=="")
+    	$('#survey_location').val(lat + "," + long);
+
+    var current_date = new Date();
+    $('#survey_date').val(current_date.getMonth()+1+"/"+current_date.getDate()+"/"+current_date.getFullYear());
+    $('#survey_time').val(current_date.getHours()+":"+current_date.getMinutes());
+    // Google ready coordinates
+    var coords = new google.maps.LatLng(lat, long);
+
+    // set options for map (max zoom = 20)
+    var mapOptions = {
+      zoom: 16,
+      center: coords,
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    }
+
+    // create map with marker at coordinates
+    var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+    var marker = new google.maps.Marker({map: map, position: coords});
+
+  }
+  function failure()
+  {
+    return;
+  }
+
+  //To stop Bootstap's form-control from being bad
+  $(".form-control").css("display", "inline")
+</script>
+
+<!-- Hide/show survey -->
+<script>
+function showSurvey()
+{
+	if($("input[value='No'][name='completed_survey']").is(':checked') && $("input[value='Yes'][name='currently_homeless']").is(':checked'))
+	{
+	$('#general_questions').show();
+	$('#stop_and_eligibility').hide();
+}
+
+}
+$(document).ready(function() {
+	$('#general_questions').hide();
+})
+</script>
+
+<style>
+#map {
+  width:100%;
+  height:400px;
+}
+</style>
+
+<div class="container">
+	<form method='post' action="{{ url_for('submit_form') }}">
+
+		<!-- Introduction -->
+		<div class="panel panel-default">
+		  <div class="panel-heading">
+		  <img src="Thi.png" alt="thi" align="right">
+		  	<h3 style="color:white;">Tampa/Hillsborough Continuum of Care | Point in Time (PIT) Survey</h3>
+		  </div>
+		  <div class="panel-body">
+		  	<div class="row">
+			  	<div class="col-md-3">
+				  	<p>Hello, my name is <input type="text" class="form-control input-sm" name="volunteer"/></p>
+			  	</div>
+			  	<div class="col-md-9">
+				  	I’m a volunteer for the Tampa/Hillsborough Continuum of Care.  We are conducting a survey to count homeless people to provide better services to them in our community.  Your participation is voluntary and your responses will not be shared with anyone outside of our team.  I need to read each question all the way through.  May I have a few minutes of your time?	
+			  		If the person declines to participate please gather as much identifying/descriptive info as possible on the observation survey.
+			  	</div>
+		  	</div>
+		  </div>
+		</div>
+		
+		<!-- =====================================
+		Generated Survey Questions The Bread and Butter
+		====================================== -->
+		{% for questionset in general_inputs %}
+			<div id="{{ questionset.id }}">
+			<p class="lead"><span class="glyphicon {{ questionset.glyphicon }}"></span>
+				{{ questionset.topic }}</p>
+			<div class="well">
+				<div class="row">
+					{% for question in questionset.questions %}
+						<div class="col-md-12 colspacer">
+							<b>{{loop.index}}. {{ question.label }}</b>
+						</div>
+						{% if question.type == "text" %}
+							<div class="col-md-3">
+								<input type="text" class="form-control better-control input-sm" 
+									name="{{ question.id }}"/>
+							</div>
+						{% else %}
+							{% for input in question.inputs %}
+								{% set type = question.type %}
+								{% if type|length == 0 or input.type|length > 0 %}
+									{% set type = input.type %}
+								{% endif %}
+								{% if type == "radio_group" %}
+									 {% for subinput in input.inputs %}
+										<div class="col-md-4">
+											<input type="radio" name="{{ question.id }}" 
+												value="{{ subinput.label }}"> {{ subinput.label }}
+										</div>								  
+									 {% endfor %}					
+								{% elif type == "text" %}
+									<div class="col-md-4">
+										 <input type="text" 
+										 	class="input-sm form-control better-control" 
+										 	name="{{ question.id }}">{{ input.label }} 
+									</div>
+								{% else %}
+									<div class="col-md-4">
+										<input type="{{ type }}" 
+											value="{{ input.label }}" 
+											name="{{ question.id }}"> {{ input.label }}
+									</div>
+								{% endif %}
+							 {% endfor %}
+						 {% endif %}
+					{% endfor %}			
+				</div>
+			</div>
+			</div>
+		{% endfor %}
+		
+		<div id="stop_and_eligibility">
+		<!-- Stop Sign -->
+		<div class="row alert alert-info">
+		<div class="col-md-3">
+			<center>
+			<img src="stop.png" alt="Stop sign" style="width:50px;height:50px;">
+			<h4>Stop Survey</h4>
+			</center>
+		</div>
+		<div class="col-md-9">
+		  <h4>If a person reports they are living in a non-homeless situation.  Examples include:  Rental apartment/home, staying or living with friends or family, permanent supportive housing, long term care or nursing home, residential project or halfway house, or hotel/motel paid for by self.</h4>
+		</div>
+		</div>
+
+		<!-- Check Eligibility -->
+		<div style="text-align: center;">
+		<button type="button" id="check_eligibility" name="check_eligibility" onClick="showSurvey()" class="btn btn-info">Check Eligibility</button>
+		</div>
+		</div>
+
+		<!--- Google Maps divider -->
+		<p class="lead"><span class="glyphicon glyphicon-map-marker"></span>Map Location</p>
+		<div class="well">
+			<div id="map"></div>
+		</div>
+		<input type="hidden" name="survey_location" id="survey_location">
+		<input type="hidden" name="survey_date" id="survey_date">
+		<input type="hidden" name="survey_time" id="survey_time">
+
+		<!-- Submit -->
+		<p class="lead"><span class="glyphicon glyphicon-check"></span>Submit</p>
+		<div class="well footer-well">
+			<div class="row">
+				<div class="col-md-12">
+					<button type="submit" class="btn fit-width btn-primary">Submit Information</button> 
+				</div> 
+			</div>
+		</div>
+	</form>
+</div>
+{% endblock %}
+
