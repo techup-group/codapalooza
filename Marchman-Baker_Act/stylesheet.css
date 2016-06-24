@@ -1,0 +1,15 @@
+
+@page {
+	size: letter;
+	}
+BODY
+{
+    margin:10mm;padding:0
+    margin-top: 2cm;
+    FONT-FAMILY: times new roman
+    font-size: 12pt;
+}
+p.two {
+    border-style: solid;
+    border-width: medium;
+}
